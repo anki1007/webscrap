@@ -36,6 +36,7 @@ HEADERS = {
 
 # ── Method 1: curl_cffi (Chrome TLS impersonation) ──────────────────────────
 def fetch_curl_cffi():
+    global _shared_session
     from curl_cffi import requests as cf
     print("  [M1] curl_cffi Chrome impersonation...")
     s = cf.Session(impersonate="chrome110")
@@ -44,23 +45,25 @@ def fetch_curl_cffi():
     r = s.get(NSE_API, timeout=20)
     print(f"  [M1] status {r.status_code}")
     r.raise_for_status()
+    _shared_session = s
     return r.json()
 
 
 # ── Method 2: requests + full cookie warmup ──────────────────────────────────
 def fetch_requests():
+    global _shared_session
     import requests
     print("  [M2] requests + cookie warmup...")
     s = requests.Session()
     s.get("https://www.nseindia.com", headers=HEADERS, timeout=20)
     time.sleep(2)
-    # Also hit the FII/DII page to seed Referer cookies
     s.get("https://www.nseindia.com/market-data/fii-dii-trading-activity",
           headers=HEADERS, timeout=20)
     time.sleep(1)
     r = s.get(NSE_API, headers=HEADERS, timeout=20)
     print(f"  [M2] status {r.status_code}")
     r.raise_for_status()
+    _shared_session = s
     return r.json()
 
 
@@ -98,7 +101,37 @@ def fetch_thingproxy():
     return r.json()
 
 
+# ── Nifty 50 + India VIX from NSE allIndices ────────────────────────────────
+def fetch_nifty_vix(session):
+    """Uses the same authenticated session from FII/DII fetch."""
+    print("  Fetching Nifty/VIX...")
+    try:
+        r = session.get("https://www.nseindia.com/api/allIndices", timeout=20)
+        r.raise_for_status()
+        data = r.json()
+        result = {}
+        for item in data.get("data", []):
+            idx = item.get("index", "")
+            if idx == "NIFTY 50":
+                result["nifty_price"]      = float(item.get("last", 0))
+                result["nifty_change"]     = float(item.get("variation", 0))
+                result["nifty_change_pct"] = float(item.get("percentChange", 0))
+            elif idx == "INDIA VIX":
+                result["vix_price"]        = float(item.get("last", 0))
+                result["vix_change_pct"]   = float(item.get("percentChange", 0))
+        if result:
+            print(f"  Nifty: {result.get('nifty_price')}  VIX: {result.get('vix_price')}")
+        return result
+    except Exception as e:
+        print(f"  Nifty/VIX fetch failed: {e}")
+        return {}
+
+
+# Shared session for reuse across FII/DII + Nifty/VIX
+_shared_session = None
+
 def fetch_with_fallback():
+    global _shared_session
     methods = [fetch_curl_cffi, fetch_requests, fetch_corsproxy,
                fetch_allorigins, fetch_thingproxy]
     last_err = None
@@ -153,6 +186,11 @@ def main():
     entry = parse_rows(rows)
     entry["fetched_at"] = datetime.now(timezone.utc).isoformat()
     entry["raw"] = rows
+
+    # Nifty/VIX — reuse the authenticated session if available
+    if _shared_session:
+        nv = fetch_nifty_vix(_shared_session)
+        entry.update(nv)
 
     LATEST_FILE.write_text(json.dumps(entry, indent=2))
     print(f"Saved: {entry['date']}")
