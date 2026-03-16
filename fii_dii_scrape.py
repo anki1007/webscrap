@@ -3,8 +3,8 @@ NSE FII/DII data scraper — runs in GitHub Actions daily.
 Saves data/fii_dii_latest.json and data/fii_dii_history.json
 """
 import json
+import sys
 import time
-import os
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -25,25 +25,29 @@ HEADERS  = {
     "Connection":      "keep-alive",
 }
 
-DATA_DIR    = Path("data")
-LATEST_FILE = DATA_DIR / "fii_dii_latest.json"
-HISTORY_FILE= DATA_DIR / "fii_dii_history.json"
-MAX_HISTORY = 60   # keep last 60 trading days
+DATA_DIR     = Path("data")
+LATEST_FILE  = DATA_DIR / "fii_dii_latest.json"
+HISTORY_FILE = DATA_DIR / "fii_dii_history.json"
+MAX_HISTORY  = 60
 
 
 def fetch_nse():
     session = requests.Session()
-    # Warm up: visit homepage to get cookies
-    session.get(NSE_BASE, headers=HEADERS, timeout=15)
-    time.sleep(1)
-    resp = session.get(NSE_API, headers=HEADERS, timeout=15)
+    # Warm-up: get cookies from homepage
+    print("  Warming up session...")
+    r = session.get(NSE_BASE, headers=HEADERS, timeout=20)
+    print(f"  Homepage status: {r.status_code}")
+    time.sleep(2)
+    print("  Hitting API...")
+    resp = session.get(NSE_API, headers=HEADERS, timeout=20)
+    print(f"  API status: {resp.status_code}")
     resp.raise_for_status()
     return resp.json()
 
 
 def parse_row(rows):
-    """Return dict with fii/dii buy/sell/net + date from NSE response array."""
-    result = {"date": None, "fii_buy": 0, "fii_sell": 0, "fii_net": 0,
+    result = {"date": None,
+              "fii_buy": 0, "fii_sell": 0, "fii_net": 0,
               "dii_buy": 0, "dii_sell": 0, "dii_net": 0}
     for row in rows:
         cat = row.get("category", "")
@@ -64,25 +68,30 @@ def update_history(new_entry):
     history = []
     if HISTORY_FILE.exists():
         history = json.loads(HISTORY_FILE.read_text())
-
-    # Deduplicate: replace existing entry for same date
     history = [h for h in history if h.get("date") != new_entry["date"]]
     history.insert(0, new_entry)
-    history = history[:MAX_HISTORY]
-    return history
+    return history[:MAX_HISTORY]
 
 
 def main():
     DATA_DIR.mkdir(exist_ok=True)
 
     print("Fetching NSE FII/DII data...")
-    rows = fetch_nse()
+    try:
+        rows = fetch_nse()
+    except Exception as e:
+        print(f"ERROR: NSE fetch failed — {e}", file=sys.stderr)
+        # Don't hard-fail if NSE is down; preserve existing data
+        if LATEST_FILE.exists():
+            print("Keeping existing data file unchanged.")
+            sys.exit(0)
+        sys.exit(1)
+
     print(f"  Got {len(rows)} rows")
 
     entry = parse_row(rows)
     entry["fetched_at"] = datetime.now(timezone.utc).isoformat()
-    # Also keep the raw NSE array for frontend compatibility
-    entry["raw"] = rows
+    entry["raw"] = rows   # frontend uses this array
 
     LATEST_FILE.write_text(json.dumps(entry, indent=2))
     print(f"  Saved latest: {entry['date']}")
