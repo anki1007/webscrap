@@ -1,0 +1,37 @@
+name: FII DII Daily Scraper
+
+on:
+  schedule:
+    # 12:30 UTC = 18:00 IST  (after NSE data refresh ~17:30 IST)
+    - cron: "30 12 * * 1-5"   # Mon–Fri only
+  workflow_dispatch:            # allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write           # needed to commit data files
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper
+        run: python fii_dii_scrape.py
+
+      - name: Commit & push data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/fii_dii_latest.json data/fii_dii_history.json
+          git diff --cached --quiet && echo "No changes" || \
+            git commit -m "chore: update FII/DII data $(date -u +'%Y-%m-%d %H:%M UTC')" && \
+            git push
