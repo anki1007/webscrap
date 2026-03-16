@@ -1,0 +1,26 @@
+{
+  "date": "16-Mar-2026",
+  "fii_buy": 11566.51,
+  "fii_sell": 20932.03,
+  "fii_net": -9365.52,
+  "dii_buy": 25150.41,
+  "dii_sell": 12557.05,
+  "dii_net": 12593.36,
+  "fetched_at": "2026-03-16T16:03:48.704636+00:00",
+  "raw": [
+    {
+      "category": "DII",
+      "date": "16-Mar-2026",
+      "buyValue": "25150.41",
+      "sellValue": "12557.05",
+      "netValue": "12593.36"
+    },
+    {
+      "category": "FII/FPI",
+      "date": "16-Mar-2026",
+      "buyValue": "11566.51",
+      "sellValue": "20932.03",
+      "netValue": "-9365.52"
+    }
+  ]
+}
