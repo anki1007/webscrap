@@ -1,6 +1,6 @@
 {
-  "ts": 1774373456,
-  "updated": "24-Mar-2026 23:00:56",
+  "ts": 1774375967,
+  "updated": "24-Mar-2026 23:42:47",
   "indices": {
     "NIFTY_50": [
       {
@@ -407,6 +407,431 @@
         "prevClose": 187.54,
         "mCap": 198162.62307489,
         "sector": "Information Technology"
+      }
+    ],
+    "NIFTY_NEXT_50": [
+      {
+        "symbol": "ABB",
+        "pChange": 1.63,
+        "change": 98.5,
+        "ltp": 6140,
+        "prevClose": 6041.5,
+        "mCap": 130111.74224999998,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "ADANIENSOL",
+        "pChange": 2.23,
+        "change": 21.1,
+        "ltp": 968,
+        "prevClose": 946.9,
+        "mCap": 116284.1597456,
+        "sector": "Power"
+      },
+      {
+        "symbol": "ADANIGREEN",
+        "pChange": 2.76,
+        "change": 22.55,
+        "ltp": 839,
+        "prevClose": 816.45,
+        "mCap": 137712.94451839998,
+        "sector": "Power"
+      },
+      {
+        "symbol": "ADANIPOWER",
+        "pChange": 1.59,
+        "change": 2.35,
+        "ltp": 150.2,
+        "prevClose": 147.85,
+        "mCap": 289656.11446909996,
+        "sector": "Power"
+      },
+      {
+        "symbol": "AMBUJACEM",
+        "pChange": 3.81,
+        "change": 15.05,
+        "ltp": 410.4,
+        "prevClose": 395.35,
+        "mCap": 101443.63553711999,
+        "sector": "Construction Materials"
+      },
+      {
+        "symbol": "DMART",
+        "pChange": 2.85,
+        "change": 104.2,
+        "ltp": 3759.8,
+        "prevClose": 3655.6,
+        "mCap": 244662.61890664,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "BAJAJHLDNG",
+        "pChange": 2.11,
+        "change": 193,
+        "ltp": 9355,
+        "prevClose": 9162,
+        "mCap": 104115.07860499999,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "BAJAJHFL",
+        "pChange": 0.37,
+        "change": 0.29,
+        "ltp": 78.8,
+        "prevClose": 78.51,
+        "mCap": 65658.79679772,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "BANKBARODA",
+        "pChange": 1.77,
+        "change": 4.7,
+        "ltp": 270.6,
+        "prevClose": 265.9,
+        "mCap": 139937.06056374,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "BPCL",
+        "pChange": 4.07,
+        "change": 11.05,
+        "ltp": 282.35,
+        "prevClose": 271.3,
+        "mCap": 122495.65259268001,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "BOSCHLTD",
+        "pChange": 3.14,
+        "change": 915,
+        "ltp": 30050,
+        "prevClose": 29135,
+        "mCap": 88628.3882,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "BRITANNIA",
+        "pChange": 0.69,
+        "change": 38,
+        "ltp": 5528,
+        "prevClose": 5490,
+        "mCap": 133151.9940288,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "CGPOWER",
+        "pChange": 0.68,
+        "change": 4.5,
+        "ltp": 668.6,
+        "prevClose": 664.1,
+        "mCap": 105298.99133774001,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "CANBK",
+        "pChange": 3.04,
+        "change": 3.94,
+        "ltp": 133.5,
+        "prevClose": 129.56,
+        "mCap": 121093.194321,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "CHOLAFIN",
+        "pChange": 3.4,
+        "change": 47,
+        "ltp": 1427.9,
+        "prevClose": 1380.9,
+        "mCap": 121635.60838212,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "DLF",
+        "pChange": 1.4,
+        "change": 7.2,
+        "ltp": 521.95,
+        "prevClose": 514.75,
+        "mCap": 129199.06830402002,
+        "sector": "Realty"
+      },
+      {
+        "symbol": "DIVISLAB",
+        "pChange": 0.11,
+        "change": 6.5,
+        "ltp": 6020,
+        "prevClose": 6013.5,
+        "mCap": 159812.08516000002,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "GAIL",
+        "pChange": 1.99,
+        "change": 2.69,
+        "ltp": 138.09,
+        "prevClose": 135.4,
+        "mCap": 90795.550970187,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "GODREJCP",
+        "pChange": 0.46,
+        "change": 4.6,
+        "ltp": 1007,
+        "prevClose": 1002.4,
+        "mCap": 103040.72930669998,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "HAVELLS",
+        "pChange": 0.24,
+        "change": 3,
+        "ltp": 1234,
+        "prevClose": 1231,
+        "mCap": 77403.4943028,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "HAL",
+        "pChange": 0.6,
+        "change": 21.7,
+        "ltp": 3656.3,
+        "prevClose": 3634.6,
+        "mCap": 244524.20325000002,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "HINDZINC",
+        "pChange": 1.71,
+        "change": 8.35,
+        "ltp": 496,
+        "prevClose": 487.65,
+        "mCap": 209575.82240000003,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "ICICIGI",
+        "pChange": 0.45,
+        "change": 7.8,
+        "ltp": 1730,
+        "prevClose": 1722.2,
+        "mCap": 86216.701082,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "INDHOTEL",
+        "pChange": 3.87,
+        "change": 22.55,
+        "ltp": 605,
+        "prevClose": 582.45,
+        "mCap": 86117.6497335,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "IOC",
+        "pChange": 0.5,
+        "change": 0.69,
+        "ltp": 138.8,
+        "prevClose": 138.11,
+        "mCap": 196002.78875604004,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "IRFC",
+        "pChange": 3.97,
+        "change": 3.55,
+        "ltp": 93,
+        "prevClose": 89.45,
+        "mCap": 121537.1058,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "NAUKRI",
+        "pChange": 1.73,
+        "change": 16.9,
+        "ltp": 991.6,
+        "prevClose": 974.7,
+        "mCap": 64297.38669600001,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "JSWENERGY",
+        "pChange": 0.55,
+        "change": 2.65,
+        "ltp": 485.35,
+        "prevClose": 482.7,
+        "mCap": 85290.17983910002,
+        "sector": "Power"
+      },
+      {
+        "symbol": "JINDALSTEL",
+        "pChange": 1.7,
+        "change": 18.8,
+        "ltp": 1125,
+        "prevClose": 1106.2,
+        "mCap": 114759.91091250001,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "LTM",
+        "pChange": 2.84,
+        "change": 116.4,
+        "ltp": 4222,
+        "prevClose": 4105.6,
+        "mCap": 125179.4801262,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "LICI",
+        "pChange": 2.45,
+        "change": 18.1,
+        "ltp": 758.1,
+        "prevClose": 740,
+        "mCap": 479498.07571281004,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "MAZDOCK",
+        "pChange": 2.28,
+        "change": 50.3,
+        "ltp": 2257,
+        "prevClose": 2206.7,
+        "mCap": 91042.866,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "PIDILITIND",
+        "pChange": 1.53,
+        "change": 20.1,
+        "ltp": 1335,
+        "prevClose": 1314.9,
+        "mCap": 135871.799448,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "PFC",
+        "pChange": 0.25,
+        "change": 1,
+        "ltp": 399,
+        "prevClose": 398,
+        "mCap": 131674.060224,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "PNB",
+        "pChange": 1.8,
+        "change": 1.9,
+        "ltp": 107.45,
+        "prevClose": 105.55,
+        "mCap": 123491.67541466,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "RECLTD",
+        "pChange": 1.31,
+        "change": 4.15,
+        "ltp": 320.6,
+        "prevClose": 316.45,
+        "mCap": 84421.16144000001,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "MOTHERSON",
+        "pChange": 4.29,
+        "change": 4.57,
+        "ltp": 111.16,
+        "prevClose": 106.59,
+        "mCap": 117318.418523516,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "SHREECEM",
+        "pChange": 2.9,
+        "change": 660,
+        "ltp": 23385,
+        "prevClose": 22725,
+        "mCap": 84374.829198,
+        "sector": "Construction Materials"
+      },
+      {
+        "symbol": "ENRIN",
+        "pChange": 0.14,
+        "change": 3.9,
+        "ltp": 2700,
+        "prevClose": 2696.1,
+        "mCap": 96152.53635,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "SIEMENS",
+        "pChange": 0.23,
+        "change": 6.8,
+        "ltp": 2995.1,
+        "prevClose": 2988.3,
+        "mCap": 106661.65245254998,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "SOLARINDS",
+        "pChange": 0.97,
+        "change": 121,
+        "ltp": 12551,
+        "prevClose": 12430,
+        "mCap": 113574.0680305,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "TVSMOTOR",
+        "pChange": 2.21,
+        "change": 75.5,
+        "ltp": 3488,
+        "prevClose": 3412.5,
+        "mCap": 165710.3853632,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "TORNTPHARM",
+        "pChange": 0.8,
+        "change": 33.7,
+        "ltp": 4247.6,
+        "prevClose": 4213.9,
+        "mCap": 143754.00739840002,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "UNITDSPR",
+        "pChange": 4.41,
+        "change": 56.3,
+        "ltp": 1331.5,
+        "prevClose": 1275.2,
+        "mCap": 96846.76607695,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "VBL",
+        "pChange": 1.71,
+        "change": 6.55,
+        "ltp": 388.75,
+        "prevClose": 382.2,
+        "mCap": 131478.91956674997,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "VEDL",
+        "pChange": 1.12,
+        "change": 7.25,
+        "ltp": 653,
+        "prevClose": 645.75,
+        "mCap": 255348.3401221,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "ZYDUSLIFE",
+        "pChange": 2.95,
+        "change": 25.4,
+        "ltp": 886,
+        "prevClose": 860.6,
+        "mCap": 89152.331514,
+        "sector": "Healthcare"
       }
     ],
     "NIFTY_200": [
@@ -6261,6 +6686,1268 @@
         "prevClose": 1403.7,
         "mCap": 13770.90612956,
         "sector": "Services"
+      }
+    ],
+    "NIFTY_MIDCAP_150": [
+      {
+        "symbol": "360ONE",
+        "pChange": 0.87,
+        "change": 8.6,
+        "ltp": 994,
+        "prevClose": 985.4,
+        "mCap": 40348.0473186,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "3MINDIA",
+        "pChange": 1.29,
+        "change": 400,
+        "ltp": 31500,
+        "prevClose": 31100,
+        "mCap": 35484.970499999996,
+        "sector": "Diversified"
+      },
+      {
+        "symbol": "ACC",
+        "pChange": 0.54,
+        "change": 7.2,
+        "ltp": 1337,
+        "prevClose": 1329.8,
+        "mCap": 25107.157063100003,
+        "sector": "Construction Materials"
+      },
+      {
+        "symbol": "AIAENG",
+        "pChange": 1.63,
+        "change": 54.1,
+        "ltp": 3370,
+        "prevClose": 3315.9,
+        "mCap": 31448.96469,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "APLAPOLLO",
+        "pChange": 4.81,
+        "change": 91.1,
+        "ltp": 1985,
+        "prevClose": 1893.9,
+        "mCap": 55110.751161,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "AUBANK",
+        "pChange": 3.64,
+        "change": 30.95,
+        "ltp": 880.5,
+        "prevClose": 849.55,
+        "mCap": 65881.16872185,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "AWL",
+        "pChange": 2.56,
+        "change": 4.49,
+        "ltp": 179.85,
+        "prevClose": 175.36,
+        "mCap": 23374.719710925,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "ABBOTINDIA",
+        "pChange": 5.4,
+        "change": 1375,
+        "ltp": 26860,
+        "prevClose": 25485,
+        "mCap": 57075.625172,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "ATGL",
+        "pChange": 2.23,
+        "change": 11.45,
+        "ltp": 525.05,
+        "prevClose": 513.6,
+        "mCap": 57745.52840791499,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "ABCAPITAL",
+        "pChange": 2.8,
+        "change": 8.25,
+        "ltp": 303.2,
+        "prevClose": 294.95,
+        "mCap": 79422.375122,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "AJANTPHARM",
+        "pChange": 2.42,
+        "change": 67.8,
+        "ltp": 2864.6,
+        "prevClose": 2796.8,
+        "mCap": 35789.05885104,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "ALKEM",
+        "pChange": 3.04,
+        "change": 156.5,
+        "ltp": 5301,
+        "prevClose": 5144.5,
+        "mCap": 63381.406500000005,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "APARINDS",
+        "pChange": 0.05,
+        "change": 5,
+        "ltp": 9810,
+        "prevClose": 9805,
+        "mCap": 39405.117014999996,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "APOLLOTYRE",
+        "pChange": 1.13,
+        "change": 4.5,
+        "ltp": 404,
+        "prevClose": 399.5,
+        "mCap": 25658.078218399998,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "ASHOKLEY",
+        "pChange": 3.41,
+        "change": 5.52,
+        "ltp": 167.5,
+        "prevClose": 161.98,
+        "mCap": 98387.063746,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "ASTRAL",
+        "pChange": 2.35,
+        "change": 36.5,
+        "ltp": 1592.8,
+        "prevClose": 1556.3,
+        "mCap": 42790.59796264,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "AUROPHARMA",
+        "pChange": 0.09,
+        "change": 1.1,
+        "ltp": 1279.8,
+        "prevClose": 1278.7,
+        "mCap": 74330.99171154,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "BSE",
+        "pChange": 3.6,
+        "change": 97.6,
+        "ltp": 2812,
+        "prevClose": 2714.4,
+        "mCap": 114697.00245239999,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "BALKRISIND",
+        "pChange": 0.48,
+        "change": 9.8,
+        "ltp": 2050,
+        "prevClose": 2040.2,
+        "mCap": 39630.02395,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "BANKINDIA",
+        "pChange": 1.89,
+        "change": 2.71,
+        "ltp": 146.44,
+        "prevClose": 143.73,
+        "mCap": 66669.268229704,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "MAHABANK",
+        "pChange": 2.41,
+        "change": 1.5,
+        "ltp": 63.82,
+        "prevClose": 62.32,
+        "mCap": 49087.415344874,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "BERGEPAINT",
+        "pChange": 2.11,
+        "change": 8.55,
+        "ltp": 414,
+        "prevClose": 405.45,
+        "mCap": 48272.516416800005,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "BDL",
+        "pChange": 1.42,
+        "change": 16.5,
+        "ltp": 1175,
+        "prevClose": 1158.5,
+        "mCap": 43071.09375,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "BHARATFORG",
+        "pChange": 3.72,
+        "change": 61.4,
+        "ltp": 1710,
+        "prevClose": 1648.6,
+        "mCap": 81741.192057,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "BHEL",
+        "pChange": 1.98,
+        "change": 5,
+        "ltp": 257.85,
+        "prevClose": 252.85,
+        "mCap": 89785.003608675,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "BHARTIHEXA",
+        "pChange": 0.28,
+        "change": 4.4,
+        "ltp": 1580.1,
+        "prevClose": 1575.7,
+        "mCap": 79005,
+        "sector": "Telecommunication"
+      },
+      {
+        "symbol": "BIOCON",
+        "pChange": 0.75,
+        "change": 2.75,
+        "ltp": 369.9,
+        "prevClose": 367.15,
+        "mCap": 59957.37852327,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "BLUESTARCO",
+        "pChange": 2.71,
+        "change": 44,
+        "ltp": 1665.1,
+        "prevClose": 1621.1,
+        "mCap": 34236.91834988,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "COCHINSHIP",
+        "pChange": 3.06,
+        "change": 38.8,
+        "ltp": 1308,
+        "prevClose": 1269.2,
+        "mCap": 34410.966024,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "COFORGE",
+        "pChange": 1.05,
+        "change": 11.5,
+        "ltp": 1111.9,
+        "prevClose": 1100.4,
+        "mCap": 37332.952812530006,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "COLPAL",
+        "pChange": 1.49,
+        "change": 27.5,
+        "ltp": 1876.7,
+        "prevClose": 1849.2,
+        "mCap": 51043.54393278,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "CONCOR",
+        "pChange": 3.6,
+        "change": 15.25,
+        "ltp": 439,
+        "prevClose": 423.75,
+        "mCap": 33435.0273465,
+        "sector": "Services"
+      },
+      {
+        "symbol": "COROMANDEL",
+        "pChange": 5.06,
+        "change": 93.5,
+        "ltp": 1940,
+        "prevClose": 1846.5,
+        "mCap": 57232.839966,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "CUMMINSIND",
+        "pChange": 2.37,
+        "change": 107,
+        "ltp": 4625,
+        "prevClose": 4518,
+        "mCap": 128205,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "DABUR",
+        "pChange": 1.31,
+        "change": 5.45,
+        "ltp": 422.8,
+        "prevClose": 417.35,
+        "mCap": 74991.62047216001,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "DALBHARAT",
+        "pChange": 2.51,
+        "change": 43.9,
+        "ltp": 1790,
+        "prevClose": 1746.1,
+        "mCap": 33574.305587,
+        "sector": "Construction Materials"
+      },
+      {
+        "symbol": "DEEPAKNTR",
+        "pChange": 0.77,
+        "change": 10.1,
+        "ltp": 1327.6,
+        "prevClose": 1317.5,
+        "mCap": 18107.540123159997,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "DIXON",
+        "pChange": 2.72,
+        "change": 269,
+        "ltp": 10163,
+        "prevClose": 9894,
+        "mCap": 61792.963855899994,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "ENDURANCE",
+        "pChange": 1.15,
+        "change": 25.4,
+        "ltp": 2235,
+        "prevClose": 2209.6,
+        "mCap": 31438.146528,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "ESCORTS",
+        "pChange": 1.2,
+        "change": 34.4,
+        "ltp": 2906,
+        "prevClose": 2871.6,
+        "mCap": 32511.6753124,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "EXIDEIND",
+        "pChange": 2.77,
+        "change": 8.05,
+        "ltp": 298.8,
+        "prevClose": 290.75,
+        "mCap": 25398,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "NYKAA",
+        "pChange": 2.24,
+        "change": 5.25,
+        "ltp": 240,
+        "prevClose": 234.75,
+        "mCap": 68713.393344,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "FEDERALBNK",
+        "pChange": 3.75,
+        "change": 9.55,
+        "ltp": 263.9,
+        "prevClose": 254.35,
+        "mCap": 64999.772302009995,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "FACT",
+        "pChange": 4.33,
+        "change": 32.95,
+        "ltp": 793.4,
+        "prevClose": 760.45,
+        "mCap": 51338.69041715999,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "FORTIS",
+        "pChange": 1.19,
+        "change": 9.5,
+        "ltp": 808.7,
+        "prevClose": 799.2,
+        "mCap": 61053.465428760006,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "GVT&D",
+        "pChange": 2.14,
+        "change": 74,
+        "ltp": 3535,
+        "prevClose": 3461,
+        "mCap": 90512.45012250001,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "GMRAIRPORT",
+        "pChange": 4.99,
+        "change": 4.23,
+        "ltp": 89,
+        "prevClose": 84.77,
+        "mCap": 93974.88597280001,
+        "sector": "Services"
+      },
+      {
+        "symbol": "GLAXO",
+        "pChange": 1.35,
+        "change": 30.8,
+        "ltp": 2310,
+        "prevClose": 2279.2,
+        "mCap": 39132.793854,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "GLENMARK",
+        "pChange": 0.43,
+        "change": 9,
+        "ltp": 2098,
+        "prevClose": 2089,
+        "mCap": 59205.7297282,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "MEDANTA",
+        "pChange": 0.25,
+        "change": 2.4,
+        "ltp": 972,
+        "prevClose": 969.6,
+        "mCap": 26126.425130400003,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "GODFRYPHLP",
+        "pChange": 2.83,
+        "change": 52.1,
+        "ltp": 1896.1,
+        "prevClose": 1844,
+        "mCap": 29575.7015136,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "GODREJPROP",
+        "pChange": 2.95,
+        "change": 44.2,
+        "ltp": 1541.4,
+        "prevClose": 1497.2,
+        "mCap": 46428.161197739995,
+        "sector": "Realty"
+      },
+      {
+        "symbol": "HDFCAMC",
+        "pChange": 3.97,
+        "change": 89.4,
+        "ltp": 2344,
+        "prevClose": 2254.6,
+        "mCap": 100417.0024264,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "HEROMOTOCO",
+        "pChange": 3.81,
+        "change": 193,
+        "ltp": 5258,
+        "prevClose": 5065,
+        "mCap": 105207.2047466,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "HINDPETRO",
+        "pChange": 5.31,
+        "change": 16.95,
+        "ltp": 336.1,
+        "prevClose": 319.15,
+        "mCap": 71516.11479637,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "POWERINDIA",
+        "pChange": 3.46,
+        "change": 840,
+        "ltp": 25095,
+        "prevClose": 24255,
+        "mCap": 111854.3449485,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "HONAUT",
+        "pChange": 1.21,
+        "change": 330,
+        "ltp": 27545,
+        "prevClose": 27215,
+        "mCap": 24353.975103499997,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "HUDCO",
+        "pChange": 2.66,
+        "change": 4.39,
+        "ltp": 169.5,
+        "prevClose": 165.11,
+        "mCap": 33932.205,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "ICICIPRULI",
+        "pChange": 1.38,
+        "change": 7.35,
+        "ltp": 538.6,
+        "prevClose": 531.25,
+        "mCap": 78055.86943398,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "IDFCFIRSTB",
+        "pChange": 2.99,
+        "change": 1.8,
+        "ltp": 62.04,
+        "prevClose": 60.24,
+        "mCap": 53361.89852664,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "IRB",
+        "pChange": 1.09,
+        "change": 0.44,
+        "ltp": 40.68,
+        "prevClose": 40.24,
+        "mCap": 24566.652000000002,
+        "sector": "Construction"
+      },
+      {
+        "symbol": "ITCHOTELS",
+        "pChange": 3.63,
+        "change": 5.09,
+        "ltp": 145.2,
+        "prevClose": 140.11,
+        "mCap": 30243.459533759997,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "INDIANB",
+        "pChange": 3.88,
+        "change": 32.5,
+        "ltp": 870.7,
+        "prevClose": 838.2,
+        "mCap": 117280.15382567002,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "IOB",
+        "pChange": 0.75,
+        "change": 0.24,
+        "ltp": 32.35,
+        "prevClose": 32.11,
+        "mCap": 62295.06798682501,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "IRCTC",
+        "pChange": 1.1,
+        "change": 5.6,
+        "ltp": 515.9,
+        "prevClose": 510.3,
+        "mCap": 41272,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "IREDA",
+        "pChange": 3.62,
+        "change": 4,
+        "ltp": 114.51,
+        "prevClose": 110.51,
+        "mCap": 32168.507249868,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "IGL",
+        "pChange": 1.5,
+        "change": 2.22,
+        "ltp": 150.2,
+        "prevClose": 147.98,
+        "mCap": 21028.024031999998,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "INDUSTOWER",
+        "pChange": 4.09,
+        "change": 16.9,
+        "ltp": 430.5,
+        "prevClose": 413.6,
+        "mCap": 113572.90668885,
+        "sector": "Telecommunication"
+      },
+      {
+        "symbol": "INDUSINDBK",
+        "pChange": 2.52,
+        "change": 19.65,
+        "ltp": 798,
+        "prevClose": 778.35,
+        "mCap": 62172.666141600006,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "JKCEMENT",
+        "pChange": 4.95,
+        "change": 241.5,
+        "ltp": 5120,
+        "prevClose": 4878.5,
+        "mCap": 39561.344512,
+        "sector": "Construction Materials"
+      },
+      {
+        "symbol": "JSWINFRA",
+        "pChange": 4.43,
+        "change": 10.7,
+        "ltp": 252,
+        "prevClose": 241.3,
+        "mCap": 52920.0394884,
+        "sector": "Services"
+      },
+      {
+        "symbol": "JSL",
+        "pChange": 3.41,
+        "change": 23.7,
+        "ltp": 719.4,
+        "prevClose": 695.7,
+        "mCap": 59308.74516071999,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "JUBLFOOD",
+        "pChange": 2.61,
+        "change": 11.45,
+        "ltp": 449.5,
+        "prevClose": 438.05,
+        "mCap": 29660.04174,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "KPRMILL",
+        "pChange": 1.84,
+        "change": 15.1,
+        "ltp": 837.85,
+        "prevClose": 822.75,
+        "mCap": 28638.88599,
+        "sector": "Textiles"
+      },
+      {
+        "symbol": "KEI",
+        "pChange": 2.74,
+        "change": 109.5,
+        "ltp": 4100,
+        "prevClose": 3990.5,
+        "mCap": 39196.243950000004,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "KPITTECH",
+        "pChange": 0.56,
+        "change": 3.7,
+        "ltp": 663,
+        "prevClose": 659.3,
+        "mCap": 18175.7344704,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "KALYANKJIL",
+        "pChange": 2.61,
+        "change": 9.45,
+        "ltp": 372.15,
+        "prevClose": 362.7,
+        "mCap": 38433.426803505,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "LTF",
+        "pChange": 2.85,
+        "change": 7.05,
+        "ltp": 254.7,
+        "prevClose": 247.65,
+        "mCap": 63786.711827520005,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "LTTS",
+        "pChange": 2.71,
+        "change": 83.4,
+        "ltp": 3159,
+        "prevClose": 3075.6,
+        "mCap": 33484.8133737,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "LICHSGFIN",
+        "pChange": 3.61,
+        "change": 16.65,
+        "ltp": 477.35,
+        "prevClose": 460.7,
+        "mCap": 26257.257305,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "LINDEINDIA",
+        "pChange": 9.39,
+        "change": 635,
+        "ltp": 7400,
+        "prevClose": 6765,
+        "mCap": 63110.32502,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "LLOYDSME",
+        "pChange": 4.07,
+        "change": 49.2,
+        "ltp": 1258.8,
+        "prevClose": 1209.6,
+        "mCap": 68523.91570344,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "LUPIN",
+        "pChange": 1.51,
+        "change": 34.6,
+        "ltp": 2331.3,
+        "prevClose": 2296.7,
+        "mCap": 106550.48564547002,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "MRF",
+        "pChange": 2.21,
+        "change": 2760,
+        "ltp": 127735,
+        "prevClose": 124975,
+        "mCap": 54174.24011050001,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "M&MFIN",
+        "pChange": 0.01,
+        "change": 0.26,
+        "ltp": 2275.01,
+        "prevClose": 2274.75,
+        "mCap": 61.33267709300001,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "MANKIND",
+        "pChange": 2.65,
+        "change": 51.1,
+        "ltp": 1978.5,
+        "prevClose": 1927.4,
+        "mCap": 81673.48349520001,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "MARICO",
+        "pChange": 2.44,
+        "change": 17.7,
+        "ltp": 743,
+        "prevClose": 725.3,
+        "mCap": 96452.17936970001,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "MFSL",
+        "pChange": 0.8,
+        "change": 12.5,
+        "ltp": 1580,
+        "prevClose": 1567.5,
+        "mCap": 54528.133818,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "MOTILALOFS",
+        "pChange": 3.15,
+        "change": 19.8,
+        "ltp": 648,
+        "prevClose": 628.2,
+        "mCap": 39000.5326656,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "MPHASIS",
+        "pChange": 2.59,
+        "change": 53.4,
+        "ltp": 2117,
+        "prevClose": 2063.6,
+        "mCap": 40396.502969,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "MUTHOOTFIN",
+        "pChange": 0.64,
+        "change": 19.8,
+        "ltp": 3135.4,
+        "prevClose": 3115.6,
+        "mCap": 125876.42596504,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "NHPC",
+        "pChange": 1.89,
+        "change": 1.42,
+        "ltp": 76.7,
+        "prevClose": 75.28,
+        "mCap": 77045.41695435,
+        "sector": "Power"
+      },
+      {
+        "symbol": "NLCINDIA",
+        "pChange": 1.65,
+        "change": 4.2,
+        "ltp": 258,
+        "prevClose": 253.8,
+        "mCap": 35775.224512199995,
+        "sector": "Power"
+      },
+      {
+        "symbol": "NMDC",
+        "pChange": 2.2,
+        "change": 1.65,
+        "ltp": 76.74,
+        "prevClose": 75.09,
+        "mCap": 67468.40787869999,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "NATIONALUM",
+        "pChange": 1.23,
+        "change": 4.3,
+        "ltp": 354.05,
+        "prevClose": 349.75,
+        "mCap": 65025.948418734995,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "NAM-INDIA",
+        "pChange": 3.52,
+        "change": 28.8,
+        "ltp": 846,
+        "prevClose": 817.2,
+        "mCap": 53920.258803000004,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "OBEROIRLTY",
+        "pChange": 2.17,
+        "change": 30.6,
+        "ltp": 1442.1,
+        "prevClose": 1411.5,
+        "mCap": 52435.07859777,
+        "sector": "Realty"
+      },
+      {
+        "symbol": "OIL",
+        "pChange": 2.8,
+        "change": 13,
+        "ltp": 477.65,
+        "prevClose": 464.65,
+        "mCap": 77694.921137115,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "PAYTM",
+        "pChange": 4.2,
+        "change": 41.7,
+        "ltp": 1034.5,
+        "prevClose": 992.8,
+        "mCap": 66212.72569945,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "OFSS",
+        "pChange": 2.02,
+        "change": 130,
+        "ltp": 6575,
+        "prevClose": 6445,
+        "mCap": 57221.70163,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "POLICYBZR",
+        "pChange": 2.2,
+        "change": 31.5,
+        "ltp": 1465.9,
+        "prevClose": 1434.4,
+        "mCap": 67826.1771313,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "PIIND",
+        "pChange": 0.52,
+        "change": 14.3,
+        "ltp": 2776.9,
+        "prevClose": 2762.6,
+        "mCap": 42130.60418742,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "PAGEIND",
+        "pChange": 2.89,
+        "change": 905,
+        "ltp": 32250,
+        "prevClose": 31345,
+        "mCap": 35971.243650000004,
+        "sector": "Textiles"
+      },
+      {
+        "symbol": "PATANJALI",
+        "pChange": 1.88,
+        "change": 8.7,
+        "ltp": 472,
+        "prevClose": 463.3,
+        "mCap": 51358.518004,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "PERSISTENT",
+        "pChange": 4.12,
+        "change": 194.8,
+        "ltp": 4919.3,
+        "prevClose": 4724.5,
+        "mCap": 77601.9575,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "PETRONET",
+        "pChange": 1.49,
+        "change": 3.55,
+        "ltp": 241.6,
+        "prevClose": 238.05,
+        "mCap": 36240.00212608,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "PHOENIXLTD",
+        "pChange": 2.14,
+        "change": 31.6,
+        "ltp": 1509,
+        "prevClose": 1477.4,
+        "mCap": 53967.0658179,
+        "sector": "Realty"
+      },
+      {
+        "symbol": "POLYCAB",
+        "pChange": 4.02,
+        "change": 273,
+        "ltp": 7068,
+        "prevClose": 6795,
+        "mCap": 106409.0990544,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "PREMIERENE",
+        "pChange": 2.28,
+        "change": 19.75,
+        "ltp": 886.3,
+        "prevClose": 866.55,
+        "mCap": 40148.89083584,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "PRESTIGE",
+        "pChange": 2.19,
+        "change": 25.8,
+        "ltp": 1204.4,
+        "prevClose": 1178.6,
+        "mCap": 51877.14914208001,
+        "sector": "Realty"
+      },
+      {
+        "symbol": "PGHH",
+        "pChange": 0.47,
+        "change": 44,
+        "ltp": 9500,
+        "prevClose": 9456,
+        "mCap": 30837.699200000003,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "RVNL",
+        "pChange": 3.32,
+        "change": 8.3,
+        "ltp": 258.55,
+        "prevClose": 250.25,
+        "mCap": 53908.194685500006,
+        "sector": "Construction"
+      },
+      {
+        "symbol": "SBICARD",
+        "pChange": 3.02,
+        "change": 19.7,
+        "ltp": 673,
+        "prevClose": 653.3,
+        "mCap": 64042.3247233,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "SJVN",
+        "pChange": 0.72,
+        "change": 0.48,
+        "ltp": 67,
+        "prevClose": 66.52,
+        "mCap": 26329.6276725,
+        "sector": "Power"
+      },
+      {
+        "symbol": "SRF",
+        "pChange": 3.69,
+        "change": 88.3,
+        "ltp": 2479.8,
+        "prevClose": 2391.5,
+        "mCap": 73507.4281035,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "SCHAEFFLER",
+        "pChange": 0.95,
+        "change": 37.4,
+        "ltp": 3989,
+        "prevClose": 3951.6,
+        "mCap": 62349.533963,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "SONACOMS",
+        "pChange": 1.67,
+        "change": 8.1,
+        "ltp": 493.05,
+        "prevClose": 484.95,
+        "mCap": 30660.16091145,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "SAIL",
+        "pChange": 2,
+        "change": 2.86,
+        "ltp": 145.9,
+        "prevClose": 143.04,
+        "mCap": 60264.363966510005,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "SUNDARMFIN",
+        "pChange": 3.05,
+        "change": 138,
+        "ltp": 4665,
+        "prevClose": 4527,
+        "mCap": 51829.95069,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "SUPREMEIND",
+        "pChange": 1.73,
+        "change": 64,
+        "ltp": 3768.5,
+        "prevClose": 3704.5,
+        "mCap": 47870.0759595,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "SUZLON",
+        "pChange": 2.95,
+        "change": 1.18,
+        "ltp": 41.12,
+        "prevClose": 39.94,
+        "mCap": 56394.57145111999,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "SWIGGY",
+        "pChange": 1.61,
+        "change": 4.4,
+        "ltp": 276.95,
+        "prevClose": 272.55,
+        "mCap": 76446.883905725,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "SYNGENE",
+        "pChange": 0.57,
+        "change": 2.25,
+        "ltp": 400.1,
+        "prevClose": 397.85,
+        "mCap": 16121.606194200001,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "TATACOMM",
+        "pChange": 1.52,
+        "change": 21,
+        "ltp": 1404,
+        "prevClose": 1383,
+        "mCap": 40014,
+        "sector": "Telecommunication"
+      },
+      {
+        "symbol": "TATAELXSI",
+        "pChange": 0.71,
+        "change": 29.4,
+        "ltp": 4160,
+        "prevClose": 4130.6,
+        "mCap": 25899.720288,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "TATAINVEST",
+        "pChange": 2.29,
+        "change": 13.1,
+        "ltp": 584,
+        "prevClose": 570.9,
+        "mCap": 29547.524384,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "TATATECH",
+        "pChange": 2.24,
+        "change": 11.65,
+        "ltp": 530.65,
+        "prevClose": 519,
+        "mCap": 21543.292668864997,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "THERMAX",
+        "pChange": 2.54,
+        "change": 78.9,
+        "ltp": 3180,
+        "prevClose": 3101.1,
+        "mCap": 37891.703400000006,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "TORNTPOWER",
+        "pChange": 0.35,
+        "change": 4.8,
+        "ltp": 1367.6,
+        "prevClose": 1362.8,
+        "mCap": 68913.84854068,
+        "sector": "Power"
+      },
+      {
+        "symbol": "TIINDIA",
+        "pChange": 3.71,
+        "change": 91.6,
+        "ltp": 2562.6,
+        "prevClose": 2471,
+        "mCap": 49597.823249279994,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "UCOBANK",
+        "pChange": 2.18,
+        "change": 0.51,
+        "ltp": 23.91,
+        "prevClose": 23.4,
+        "mCap": 29982.085518788997,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "UNOMINDA",
+        "pChange": 4.1,
+        "change": 42.2,
+        "ltp": 1071.7,
+        "prevClose": 1029.5,
+        "mCap": 61881.5848406,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "UPL",
+        "pChange": 3.08,
+        "change": 18.55,
+        "ltp": 620.95,
+        "prevClose": 602.4,
+        "mCap": 52418.69026179501,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "UNIONBANK",
+        "pChange": 2.98,
+        "change": 5.03,
+        "ltp": 173.61,
+        "prevClose": 168.58,
+        "mCap": 132527.02694312704,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "UBL",
+        "pChange": 1.88,
+        "change": 29.3,
+        "ltp": 1587.2,
+        "prevClose": 1557.9,
+        "mCap": 41966.38524928,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "VMM",
+        "pChange": 7.85,
+        "change": 7.82,
+        "ltp": 107.5,
+        "prevClose": 99.68,
+        "mCap": 50236.0164145,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "IDEA",
+        "pChange": 2.87,
+        "change": 0.25,
+        "ltp": 8.95,
+        "prevClose": 8.7,
+        "mCap": 96967.01632589499,
+        "sector": "Telecommunication"
+      },
+      {
+        "symbol": "VOLTAS",
+        "pChange": 4.11,
+        "change": 51.4,
+        "ltp": 1302.6,
+        "prevClose": 1251.2,
+        "mCap": 43101.0462324,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "WAAREEENER",
+        "pChange": 0.7,
+        "change": 21.4,
+        "ltp": 3086,
+        "prevClose": 3064.6,
+        "mCap": 88765.98328300001,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "YESBANK",
+        "pChange": 2.72,
+        "change": 0.48,
+        "ltp": 18.13,
+        "prevClose": 17.65,
+        "mCap": 56891.270653091,
+        "sector": "Financial Services"
       }
     ],
     "NIFTY_SMALLCAP_250": [
@@ -13642,63 +15329,15 @@
     ],
     "FNO": [
       {
-        "symbol": "BAJAJHLDNG",
-        "pChange": 2.11,
-        "mCap": 104115.07860499999,
+        "symbol": "HDFCBANK",
+        "pChange": 3,
+        "mCap": 1179795.4688960998,
         "sector": "Financial Services"
       },
       {
-        "symbol": "SYNGENE",
-        "pChange": 0.57,
-        "mCap": 16121.606194200001,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "WAAREEENER",
-        "pChange": 0.7,
-        "mCap": 88765.98328300001,
-        "sector": "Capital Goods"
-      },
-      {
-        "symbol": "LICI",
-        "pChange": 2.45,
-        "mCap": 479498.07571281004,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "UNIONBANK",
-        "pChange": 2.98,
-        "mCap": 132527.02694312704,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "ADANIGREEN",
-        "pChange": 2.76,
-        "mCap": 137712.94451839998,
-        "sector": "Power"
-      },
-      {
-        "symbol": "PATANJALI",
-        "pChange": 1.88,
-        "mCap": 51358.518004,
-        "sector": "Fast Moving Consumer Goods"
-      },
-      {
-        "symbol": "IREDA",
-        "pChange": 3.62,
-        "mCap": 32168.507249868,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "APOLLOHOSP",
-        "pChange": 4.04,
-        "mCap": 106882.32478094999,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "ANGELONE",
-        "pChange": 4.11,
-        "mCap": 20908.26868,
+        "symbol": "SBIN",
+        "pChange": 0.59,
+        "mCap": 958138.1054268001,
         "sector": "Financial Services"
       },
       {
@@ -13714,33 +15353,165 @@
         "sector": "Financial Services"
       },
       {
-        "symbol": "HUDCO",
-        "pChange": 2.66,
-        "mCap": 33932.205,
+        "symbol": "LT",
+        "pChange": 5.17,
+        "mCap": 483541.20855879004,
+        "sector": "Construction"
+      },
+      {
+        "symbol": "INFY",
+        "pChange": 1.85,
+        "mCap": 519090.0642559999,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "BAJFINANCE",
+        "pChange": 4.97,
+        "mCap": 530748.7010845001,
         "sector": "Financial Services"
       },
       {
-        "symbol": "CDSL",
-        "pChange": 4.74,
-        "mCap": 24818.75,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "NYKAA",
-        "pChange": 2.24,
-        "mCap": 68713.393344,
+        "symbol": "ETERNAL",
+        "pChange": 4.89,
+        "mCap": 229726.597151835,
         "sector": "Consumer Services"
       },
       {
-        "symbol": "NESTLEIND",
-        "pChange": 1.71,
-        "mCap": 228833.0603544,
+        "symbol": "BHARTIARTL",
+        "pChange": 0.92,
+        "mCap": 1104375.067375,
+        "sector": "Telecommunication"
+      },
+      {
+        "symbol": "SHRIRAMFIN",
+        "pChange": 3.35,
+        "mCap": 170676.79480340998,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "M&M",
+        "pChange": 2.88,
+        "mCap": 378157.11750710005,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "BSE",
+        "pChange": 3.6,
+        "mCap": 114697.00245239999,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "AXISBANK",
+        "pChange": 2.07,
+        "mCap": 371310.48990603996,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "ITC",
+        "pChange": 0.64,
+        "mCap": 366303.87886133,
         "sector": "Fast Moving Consumer Goods"
       },
       {
-        "symbol": "CROMPTON",
-        "pChange": 1.63,
-        "mCap": 15260.782537500001,
+        "symbol": "MCX",
+        "pChange": 4.75,
+        "mCap": 61820.22290180001,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "VEDL",
+        "pChange": 1.12,
+        "mCap": 255348.3401221,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "INDIGO",
+        "pChange": 5.49,
+        "mCap": 160908.3297676,
+        "sector": "Services"
+      },
+      {
+        "symbol": "TCS",
+        "pChange": 0.71,
+        "mCap": 868630.4513214402,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "KOTAKBANK",
+        "pChange": 3.35,
+        "mCap": 366526.94063424994,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "MARUTI",
+        "pChange": 1.09,
+        "mCap": 392688.814926,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "TATASTEEL",
+        "pChange": 2.15,
+        "mCap": 238685.03950951996,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "DIXON",
+        "pChange": 2.72,
+        "mCap": 61792.963855899994,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "POLYCAB",
+        "pChange": 4.02,
+        "mCap": 106409.0990544,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "BEL",
+        "pChange": 2.34,
+        "mCap": 303355.8214035,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "GRASIM",
+        "pChange": 1.34,
+        "mCap": 174554.48705400003,
+        "sector": "Construction Materials"
+      },
+      {
+        "symbol": "WAAREEENER",
+        "pChange": 0.7,
+        "mCap": 88765.98328300001,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "TECHM",
+        "pChange": 3.54,
+        "mCap": 140402.4297203,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "BPCL",
+        "pChange": 4.07,
+        "mCap": 122495.65259268001,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "PERSISTENT",
+        "pChange": 4.12,
+        "mCap": 77601.9575,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "MUTHOOTFIN",
+        "pChange": 0.64,
+        "mCap": 125876.42596504,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "TITAN",
+        "pChange": 1.71,
+        "mCap": 347914.51824239996,
         "sector": "Consumer Durables"
       },
       {
@@ -13750,243 +15521,9 @@
         "sector": "Oil Gas & Consumable Fuels"
       },
       {
-        "symbol": "HAL",
-        "pChange": 0.6,
-        "mCap": 244524.20325000002,
-        "sector": "Capital Goods"
-      },
-      {
-        "symbol": "ABB",
-        "pChange": 1.63,
-        "mCap": 130111.74224999998,
-        "sector": "Capital Goods"
-      },
-      {
-        "symbol": "SAIL",
-        "pChange": 2,
-        "mCap": 60264.363966510005,
-        "sector": "Metals & Mining"
-      },
-      {
-        "symbol": "WIPRO",
-        "pChange": 0.75,
-        "mCap": 198162.62307489,
-        "sector": "Information Technology"
-      },
-      {
-        "symbol": "PAYTM",
-        "pChange": 4.2,
-        "mCap": 66212.72569945,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "APLAPOLLO",
-        "pChange": 4.81,
-        "mCap": 55110.751161,
-        "sector": "Capital Goods"
-      },
-      {
-        "symbol": "ADANIENSOL",
-        "pChange": 2.23,
-        "mCap": 116284.1597456,
-        "sector": "Power"
-      },
-      {
-        "symbol": "JUBLFOOD",
-        "pChange": 2.61,
-        "mCap": 29660.04174,
-        "sector": "Consumer Services"
-      },
-      {
-        "symbol": "PNBHOUSING",
-        "pChange": 4.43,
-        "mCap": 20423.8713392,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "IOC",
-        "pChange": 0.5,
-        "mCap": 196002.78875604004,
-        "sector": "Oil Gas & Consumable Fuels"
-      },
-      {
-        "symbol": "TATASTEEL",
-        "pChange": 2.15,
-        "mCap": 238685.03950951996,
-        "sector": "Metals & Mining"
-      },
-      {
-        "symbol": "BIOCON",
-        "pChange": 0.75,
-        "mCap": 59957.37852327,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "SHRIRAMFIN",
-        "pChange": 3.35,
-        "mCap": 170676.79480340998,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "PRESTIGE",
-        "pChange": 2.19,
-        "mCap": 51877.14914208001,
-        "sector": "Realty"
-      },
-      {
-        "symbol": "IEX",
-        "pChange": 3.8,
-        "mCap": 10679.803887095,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "COFORGE",
-        "pChange": 1.05,
-        "mCap": 37332.952812530006,
-        "sector": "Information Technology"
-      },
-      {
-        "symbol": "TMPV",
-        "pChange": 1.87,
-        "mCap": 114511.24216134001,
-        "sector": "Automobile and Auto Components"
-      },
-      {
-        "symbol": "SIEMENS",
-        "pChange": 0.23,
-        "mCap": 106661.65245254998,
-        "sector": "Capital Goods"
-      },
-      {
-        "symbol": "ASIANPAINT",
-        "pChange": 4.68,
-        "mCap": 212989.8692695,
-        "sector": "Consumer Durables"
-      },
-      {
-        "symbol": "TATAELXSI",
-        "pChange": 0.71,
-        "mCap": 25899.720288,
-        "sector": "Information Technology"
-      },
-      {
-        "symbol": "HDFCBANK",
-        "pChange": 3,
-        "mCap": 1179795.4688960998,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "KFINTECH",
-        "pChange": 3.24,
-        "mCap": 15630.6792924,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "SUZLON",
-        "pChange": 2.95,
-        "mCap": 56394.57145111999,
-        "sector": "Capital Goods"
-      },
-      {
-        "symbol": "PERSISTENT",
-        "pChange": 4.12,
-        "mCap": 77601.9575,
-        "sector": "Information Technology"
-      },
-      {
-        "symbol": "DRREDDY",
-        "pChange": 0.26,
-        "mCap": 104878.5980068,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "NHPC",
-        "pChange": 1.89,
-        "mCap": 77045.41695435,
-        "sector": "Power"
-      },
-      {
-        "symbol": "HINDUNILVR",
-        "pChange": 1.89,
-        "mCap": 491299.5328842,
-        "sector": "Fast Moving Consumer Goods"
-      },
-      {
-        "symbol": "BHEL",
-        "pChange": 1.98,
-        "mCap": 89785.003608675,
-        "sector": "Capital Goods"
-      },
-      {
-        "symbol": "INFY",
-        "pChange": 1.85,
-        "mCap": 519090.0642559999,
-        "sector": "Information Technology"
-      },
-      {
-        "symbol": "ICICIPRULI",
-        "pChange": 1.38,
-        "mCap": 78055.86943398,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "TORNTPHARM",
-        "pChange": 0.8,
-        "mCap": 143754.00739840002,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "TECHM",
-        "pChange": 3.54,
-        "mCap": 140402.4297203,
-        "sector": "Information Technology"
-      },
-      {
-        "symbol": "YESBANK",
-        "pChange": 2.72,
-        "mCap": 56891.270653091,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "MAXHEALTH",
-        "pChange": 1,
-        "mCap": 94053.50171264999,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "ALKEM",
-        "pChange": 3.04,
-        "mCap": 63381.406500000005,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "BANKINDIA",
-        "pChange": 1.89,
-        "mCap": 66669.268229704,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "SBIN",
-        "pChange": 0.59,
-        "mCap": 958138.1054268001,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "CANBK",
-        "pChange": 3.04,
-        "mCap": 121093.194321,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "KEI",
-        "pChange": 2.74,
-        "mCap": 39196.243950000004,
-        "sector": "Capital Goods"
-      },
-      {
-        "symbol": "CHOLAFIN",
-        "pChange": 3.4,
-        "mCap": 121635.60838212,
+        "symbol": "INDUSINDBK",
+        "pChange": 2.52,
+        "mCap": 62172.666141600006,
         "sector": "Financial Services"
       },
       {
@@ -13996,52 +15533,40 @@
         "sector": "Automobile and Auto Components"
       },
       {
-        "symbol": "FORTIS",
-        "pChange": 1.19,
-        "mCap": 61053.465428760006,
+        "symbol": "PFC",
+        "pChange": 0.25,
+        "mCap": 131674.060224,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "HCLTECH",
+        "pChange": 1.21,
+        "mCap": 373128.9507,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "IDEA",
+        "pChange": 2.87,
+        "mCap": 96967.01632589499,
+        "sector": "Telecommunication"
+      },
+      {
+        "symbol": "APOLLOHOSP",
+        "pChange": 4.04,
+        "mCap": 106882.32478094999,
         "sector": "Healthcare"
       },
       {
-        "symbol": "SHREECEM",
-        "pChange": 2.9,
-        "mCap": 84374.829198,
-        "sector": "Construction Materials"
-      },
-      {
-        "symbol": "DALBHARAT",
-        "pChange": 2.51,
-        "mCap": 33574.305587,
-        "sector": "Construction Materials"
-      },
-      {
-        "symbol": "POLYCAB",
-        "pChange": 4.02,
-        "mCap": 106409.0990544,
+        "symbol": "HAL",
+        "pChange": 0.6,
+        "mCap": 244524.20325000002,
         "sector": "Capital Goods"
       },
       {
-        "symbol": "TORNTPOWER",
-        "pChange": 0.35,
-        "mCap": 68913.84854068,
-        "sector": "Power"
-      },
-      {
-        "symbol": "BOSCHLTD",
-        "pChange": 3.14,
-        "mCap": 88628.3882,
+        "symbol": "TVSMOTOR",
+        "pChange": 2.21,
+        "mCap": 165710.3853632,
         "sector": "Automobile and Auto Components"
-      },
-      {
-        "symbol": "AMBER",
-        "pChange": 2.56,
-        "mCap": 22698.625215000004,
-        "sector": "Consumer Durables"
-      },
-      {
-        "symbol": "AMBUJACEM",
-        "pChange": 3.81,
-        "mCap": 101443.63553711999,
-        "sector": "Construction Materials"
       },
       {
         "symbol": "KAYNES",
@@ -14050,58 +15575,52 @@
         "sector": "Capital Goods"
       },
       {
-        "symbol": "PREMIERENE",
-        "pChange": 2.28,
-        "mCap": 40148.89083584,
+        "symbol": "IOC",
+        "pChange": 0.5,
+        "mCap": 196002.78875604004,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "CUMMINSIND",
+        "pChange": 2.37,
+        "mCap": 128205,
         "sector": "Capital Goods"
       },
       {
-        "symbol": "DIVISLAB",
-        "pChange": 0.11,
-        "mCap": 159812.08516000002,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "NAUKRI",
-        "pChange": 1.73,
-        "mCap": 64297.38669600001,
-        "sector": "Consumer Services"
-      },
-      {
-        "symbol": "MARICO",
-        "pChange": 2.44,
-        "mCap": 96452.17936970001,
-        "sector": "Fast Moving Consumer Goods"
-      },
-      {
-        "symbol": "GODREJPROP",
-        "pChange": 2.95,
-        "mCap": 46428.161197739995,
-        "sector": "Realty"
-      },
-      {
-        "symbol": "HAVELLS",
-        "pChange": 0.24,
-        "mCap": 77403.4943028,
-        "sector": "Consumer Durables"
-      },
-      {
-        "symbol": "BLUESTARCO",
-        "pChange": 2.71,
-        "mCap": 34236.91834988,
-        "sector": "Consumer Durables"
-      },
-      {
-        "symbol": "INDIGO",
-        "pChange": 5.49,
-        "mCap": 160908.3297676,
+        "symbol": "ADANIPORTS",
+        "pChange": 3.18,
+        "mCap": 309882.498681,
         "sector": "Services"
       },
       {
-        "symbol": "CAMS",
-        "pChange": 2.18,
-        "mCap": 15765.695307599999,
-        "sector": "Financial Services"
+        "symbol": "HINDZINC",
+        "pChange": 1.71,
+        "mCap": 209575.82240000003,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "DRREDDY",
+        "pChange": 0.26,
+        "mCap": 104878.5980068,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "ULTRACEMCO",
+        "pChange": 3.95,
+        "mCap": 317398.9350841,
+        "sector": "Construction Materials"
+      },
+      {
+        "symbol": "BAJAJ-AUTO",
+        "pChange": 1.44,
+        "mCap": 248808.9753876,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "HINDPETRO",
+        "pChange": 5.31,
+        "mCap": 71516.11479637,
+        "sector": "Oil Gas & Consumable Fuels"
       },
       {
         "symbol": "SWIGGY",
@@ -14110,22 +15629,28 @@
         "sector": "Consumer Services"
       },
       {
-        "symbol": "LICHSGFIN",
-        "pChange": 3.61,
-        "mCap": 26257.257305,
-        "sector": "Financial Services"
-      },
-      {
         "symbol": "SAMMAANCAP",
         "pChange": 7.04,
         "mCap": 11530.8976871,
         "sector": "Financial Services"
       },
       {
-        "symbol": "INOXWIND",
-        "pChange": 2.43,
-        "mCap": 13480.2550116,
+        "symbol": "JIOFIN",
+        "pChange": 3.01,
+        "mCap": 147964.66839967002,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "POWERINDIA",
+        "pChange": 3.46,
+        "mCap": 111854.3449485,
         "sector": "Capital Goods"
+      },
+      {
+        "symbol": "HINDUNILVR",
+        "pChange": 1.89,
+        "mCap": 491299.5328842,
+        "sector": "Fast Moving Consumer Goods"
       },
       {
         "symbol": "MOTHERSON",
@@ -14140,148 +15665,16 @@
         "sector": "Power"
       },
       {
-        "symbol": "PFC",
-        "pChange": 0.25,
-        "mCap": 131674.060224,
+        "symbol": "CHOLAFIN",
+        "pChange": 3.4,
+        "mCap": 121635.60838212,
         "sector": "Financial Services"
       },
       {
-        "symbol": "AXISBANK",
-        "pChange": 2.07,
-        "mCap": 371310.48990603996,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "HEROMOTOCO",
-        "pChange": 3.81,
-        "mCap": 105207.2047466,
-        "sector": "Automobile and Auto Components"
-      },
-      {
-        "symbol": "HDFCAMC",
-        "pChange": 3.97,
-        "mCap": 100417.0024264,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "ZYDUSLIFE",
-        "pChange": 2.95,
-        "mCap": 89152.331514,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "SBICARD",
-        "pChange": 3.02,
-        "mCap": 64042.3247233,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "PGEL",
-        "pChange": 1.54,
-        "mCap": 14332.76171134,
+        "symbol": "ASIANPAINT",
+        "pChange": 4.68,
+        "mCap": 212989.8692695,
         "sector": "Consumer Durables"
-      },
-      {
-        "symbol": "LT",
-        "pChange": 5.17,
-        "mCap": 483541.20855879004,
-        "sector": "Construction"
-      },
-      {
-        "symbol": "TRENT",
-        "pChange": 0.69,
-        "mCap": 120154.761818,
-        "sector": "Consumer Services"
-      },
-      {
-        "symbol": "VEDL",
-        "pChange": 1.12,
-        "mCap": 255348.3401221,
-        "sector": "Metals & Mining"
-      },
-      {
-        "symbol": "MPHASIS",
-        "pChange": 2.59,
-        "mCap": 40396.502969,
-        "sector": "Information Technology"
-      },
-      {
-        "symbol": "SBILIFE",
-        "pChange": 0.2,
-        "mCap": 184153.88374560003,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "MFSL",
-        "pChange": 0.8,
-        "mCap": 54528.133818,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "VOLTAS",
-        "pChange": 4.11,
-        "mCap": 43101.0462324,
-        "sector": "Consumer Durables"
-      },
-      {
-        "symbol": "COLPAL",
-        "pChange": 1.49,
-        "mCap": 51043.54393278,
-        "sector": "Fast Moving Consumer Goods"
-      },
-      {
-        "symbol": "MANKIND",
-        "pChange": 2.65,
-        "mCap": 81673.48349520001,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "INDIANB",
-        "pChange": 3.88,
-        "mCap": 117280.15382567002,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "INDUSTOWER",
-        "pChange": 4.09,
-        "mCap": 113572.90668885,
-        "sector": "Telecommunication"
-      },
-      {
-        "symbol": "MANAPPURAM",
-        "pChange": 0.28,
-        "mCap": 21414.7986437,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "SOLARINDS",
-        "pChange": 0.97,
-        "mCap": 113574.0680305,
-        "sector": "Chemicals"
-      },
-      {
-        "symbol": "JIOFIN",
-        "pChange": 3.01,
-        "mCap": 147964.66839967002,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "UPL",
-        "pChange": 3.08,
-        "mCap": 52418.69026179501,
-        "sector": "Chemicals"
-      },
-      {
-        "symbol": "PIIND",
-        "pChange": 0.52,
-        "mCap": 42130.60418742,
-        "sector": "Chemicals"
-      },
-      {
-        "symbol": "POWERINDIA",
-        "pChange": 3.46,
-        "mCap": 111854.3449485,
-        "sector": "Capital Goods"
       },
       {
         "symbol": "NATIONALUM",
@@ -14290,99 +15683,81 @@
         "sector": "Metals & Mining"
       },
       {
-        "symbol": "HDFCLIFE",
-        "pChange": 1.93,
-        "mCap": 130212.1165475,
-        "sector": "Financial Services"
+        "symbol": "ADANIGREEN",
+        "pChange": 2.76,
+        "mCap": 137712.94451839998,
+        "sector": "Power"
       },
       {
-        "symbol": "TATACONSUM",
-        "pChange": 3.07,
-        "mCap": 104356.773937,
-        "sector": "Fast Moving Consumer Goods"
-      },
-      {
-        "symbol": "ASHOKLEY",
-        "pChange": 3.41,
-        "mCap": 98387.063746,
-        "sector": "Capital Goods"
-      },
-      {
-        "symbol": "GLENMARK",
-        "pChange": 0.43,
-        "mCap": 59205.7297282,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "KOTAKBANK",
-        "pChange": 3.35,
-        "mCap": 366526.94063424994,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "PNB",
-        "pChange": 1.8,
-        "mCap": 123491.67541466,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "EXIDEIND",
-        "pChange": 2.77,
-        "mCap": 25398,
-        "sector": "Automobile and Auto Components"
-      },
-      {
-        "symbol": "TCS",
-        "pChange": 0.71,
-        "mCap": 868630.4513214402,
+        "symbol": "COFORGE",
+        "pChange": 1.05,
+        "mCap": 37332.952812530006,
         "sector": "Information Technology"
       },
       {
-        "symbol": "BEL",
-        "pChange": 2.34,
-        "mCap": 303355.8214035,
+        "symbol": "MAZDOCK",
+        "pChange": 2.28,
+        "mCap": 91042.866,
         "sector": "Capital Goods"
       },
       {
-        "symbol": "CUMMINSIND",
-        "pChange": 2.37,
-        "mCap": 128205,
-        "sector": "Capital Goods"
+        "symbol": "SRF",
+        "pChange": 3.69,
+        "mCap": 73507.4281035,
+        "sector": "Chemicals"
       },
       {
-        "symbol": "BANKBARODA",
-        "pChange": 1.77,
-        "mCap": 139937.06056374,
+        "symbol": "GAIL",
+        "pChange": 1.99,
+        "mCap": 90795.550970187,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "TRENT",
+        "pChange": 0.69,
+        "mCap": 120154.761818,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "HINDALCO",
+        "pChange": 1.4,
+        "mCap": 191463.69975960001,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "BAJAJFINSV",
+        "pChange": 2.12,
+        "mCap": 273854.1029468,
         "sector": "Financial Services"
       },
       {
-        "symbol": "PPLPHARMA",
-        "pChange": 2.39,
-        "mCap": 18137.590733849996,
-        "sector": "Healthcare"
+        "symbol": "BRITANNIA",
+        "pChange": 0.69,
+        "mCap": 133151.9940288,
+        "sector": "Fast Moving Consumer Goods"
       },
       {
-        "symbol": "SUPREMEIND",
-        "pChange": 1.73,
-        "mCap": 47870.0759595,
-        "sector": "Capital Goods"
+        "symbol": "CANBK",
+        "pChange": 3.04,
+        "mCap": 121093.194321,
+        "sector": "Financial Services"
       },
       {
-        "symbol": "TITAN",
-        "pChange": 1.71,
-        "mCap": 347914.51824239996,
+        "symbol": "AMBER",
+        "pChange": 2.56,
+        "mCap": 22698.625215000004,
         "sector": "Consumer Durables"
       },
       {
-        "symbol": "BDL",
-        "pChange": 1.42,
-        "mCap": 43071.09375,
-        "sector": "Capital Goods"
+        "symbol": "LUPIN",
+        "pChange": 1.51,
+        "mCap": 106550.48564547002,
+        "sector": "Healthcare"
       },
       {
-        "symbol": "POLICYBZR",
-        "pChange": 2.2,
-        "mCap": 67826.1771313,
+        "symbol": "CDSL",
+        "pChange": 4.74,
+        "mCap": 24818.75,
         "sector": "Financial Services"
       },
       {
@@ -14404,316 +15779,64 @@
         "sector": "Fast Moving Consumer Goods"
       },
       {
-        "symbol": "DABUR",
-        "pChange": 1.31,
-        "mCap": 74991.62047216001,
-        "sector": "Fast Moving Consumer Goods"
-      },
-      {
-        "symbol": "ETERNAL",
-        "pChange": 4.89,
-        "mCap": 229726.597151835,
-        "sector": "Consumer Services"
-      },
-      {
-        "symbol": "RVNL",
-        "pChange": 3.32,
-        "mCap": 53908.194685500006,
-        "sector": "Construction"
-      },
-      {
-        "symbol": "KALYANKJIL",
-        "pChange": 2.61,
-        "mCap": 38433.426803505,
-        "sector": "Consumer Durables"
-      },
-      {
-        "symbol": "AUBANK",
-        "pChange": 3.64,
-        "mCap": 65881.16872185,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "PAGEIND",
-        "pChange": 2.89,
-        "mCap": 35971.243650000004,
-        "sector": "Textiles"
-      },
-      {
-        "symbol": "MARUTI",
-        "pChange": 1.09,
-        "mCap": 392688.814926,
-        "sector": "Automobile and Auto Components"
-      },
-      {
-        "symbol": "DIXON",
-        "pChange": 2.72,
-        "mCap": 61792.963855899994,
-        "sector": "Consumer Durables"
-      },
-      {
-        "symbol": "GRASIM",
-        "pChange": 1.34,
-        "mCap": 174554.48705400003,
-        "sector": "Construction Materials"
-      },
-      {
-        "symbol": "OIL",
-        "pChange": 2.8,
-        "mCap": 77694.921137115,
-        "sector": "Oil Gas & Consumable Fuels"
-      },
-      {
-        "symbol": "NMDC",
-        "pChange": 2.2,
-        "mCap": 67468.40787869999,
-        "sector": "Metals & Mining"
-      },
-      {
-        "symbol": "GODREJCP",
-        "pChange": 0.46,
-        "mCap": 103040.72930669998,
-        "sector": "Fast Moving Consumer Goods"
-      },
-      {
-        "symbol": "BHARTIARTL",
-        "pChange": 0.92,
-        "mCap": 1104375.067375,
-        "sector": "Telecommunication"
-      },
-      {
-        "symbol": "BAJAJFINSV",
-        "pChange": 2.12,
-        "mCap": 273854.1029468,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "360ONE",
-        "pChange": 0.87,
-        "mCap": 40348.0473186,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "ASTRAL",
-        "pChange": 2.35,
-        "mCap": 42790.59796264,
+        "symbol": "ASHOKLEY",
+        "pChange": 3.41,
+        "mCap": 98387.063746,
         "sector": "Capital Goods"
       },
       {
-        "symbol": "LTF",
-        "pChange": 2.85,
-        "mCap": 63786.711827520005,
+        "symbol": "BANKBARODA",
+        "pChange": 1.77,
+        "mCap": 139937.06056374,
         "sector": "Financial Services"
       },
       {
-        "symbol": "NBCC",
-        "pChange": 3.58,
-        "mCap": 22118.4,
-        "sector": "Construction"
+        "symbol": "SUZLON",
+        "pChange": 2.95,
+        "mCap": 56394.57145111999,
+        "sector": "Capital Goods"
       },
       {
-        "symbol": "LTM",
-        "pChange": 2.84,
-        "mCap": 125179.4801262,
-        "sector": "Information Technology"
+        "symbol": "PREMIERENE",
+        "pChange": 2.28,
+        "mCap": 40148.89083584,
+        "sector": "Capital Goods"
       },
       {
-        "symbol": "MCX",
-        "pChange": 4.75,
-        "mCap": 61820.22290180001,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "BAJAJ-AUTO",
-        "pChange": 1.44,
-        "mCap": 248808.9753876,
+        "symbol": "TMPV",
+        "pChange": 1.87,
+        "mCap": 114511.24216134001,
         "sector": "Automobile and Auto Components"
       },
       {
-        "symbol": "GAIL",
-        "pChange": 1.99,
-        "mCap": 90795.550970187,
-        "sector": "Oil Gas & Consumable Fuels"
-      },
-      {
-        "symbol": "KPITTECH",
-        "pChange": 0.56,
-        "mCap": 18175.7344704,
-        "sector": "Information Technology"
-      },
-      {
-        "symbol": "NUVAMA",
-        "pChange": 3.64,
-        "mCap": 20952.9781463,
+        "symbol": "SBILIFE",
+        "pChange": 0.2,
+        "mCap": 184153.88374560003,
         "sector": "Financial Services"
       },
       {
-        "symbol": "JINDALSTEL",
-        "pChange": 1.7,
-        "mCap": 114759.91091250001,
+        "symbol": "SAIL",
+        "pChange": 2,
+        "mCap": 60264.363966510005,
         "sector": "Metals & Mining"
       },
       {
-        "symbol": "DMART",
-        "pChange": 2.85,
-        "mCap": 244662.61890664,
-        "sector": "Consumer Services"
-      },
-      {
-        "symbol": "HCLTECH",
-        "pChange": 1.21,
-        "mCap": 373128.9507,
-        "sector": "Information Technology"
-      },
-      {
-        "symbol": "GMRAIRPORT",
-        "pChange": 4.99,
-        "mCap": 93974.88597280001,
-        "sector": "Services"
-      },
-      {
-        "symbol": "PIDILITIND",
-        "pChange": 1.53,
-        "mCap": 135871.799448,
-        "sector": "Chemicals"
-      },
-      {
-        "symbol": "BANDHANBNK",
-        "pChange": 0.88,
-        "mCap": 24106.57610442,
+        "symbol": "MFSL",
+        "pChange": 0.8,
+        "mCap": 54528.133818,
         "sector": "Financial Services"
       },
       {
-        "symbol": "ADANIPORTS",
-        "pChange": 3.18,
-        "mCap": 309882.498681,
-        "sector": "Services"
+        "symbol": "MAXHEALTH",
+        "pChange": 1,
+        "mCap": 94053.50171264999,
+        "sector": "Healthcare"
       },
       {
-        "symbol": "TATATECH",
-        "pChange": 2.24,
-        "mCap": 21543.292668864997,
-        "sector": "Information Technology"
-      },
-      {
-        "symbol": "BRITANNIA",
-        "pChange": 0.69,
-        "mCap": 133151.9940288,
-        "sector": "Fast Moving Consumer Goods"
-      },
-      {
-        "symbol": "JSWSTEEL",
-        "pChange": 2.42,
-        "mCap": 277925.8432359,
-        "sector": "Metals & Mining"
-      },
-      {
-        "symbol": "JSWENERGY",
-        "pChange": 0.55,
-        "mCap": 85290.17983910002,
-        "sector": "Power"
-      },
-      {
-        "symbol": "ABCAPITAL",
-        "pChange": 2.8,
-        "mCap": 79422.375122,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "PETRONET",
-        "pChange": 1.49,
-        "mCap": 36240.00212608,
-        "sector": "Oil Gas & Consumable Fuels"
-      },
-      {
-        "symbol": "DELHIVERY",
-        "pChange": 1.85,
-        "mCap": 31366.6797252,
-        "sector": "Services"
-      },
-      {
-        "symbol": "BHARATFORG",
-        "pChange": 3.72,
-        "mCap": 81741.192057,
+        "symbol": "HEROMOTOCO",
+        "pChange": 3.81,
+        "mCap": 105207.2047466,
         "sector": "Automobile and Auto Components"
-      },
-      {
-        "symbol": "UNITDSPR",
-        "pChange": 4.41,
-        "mCap": 96846.76607695,
-        "sector": "Fast Moving Consumer Goods"
-      },
-      {
-        "symbol": "IDEA",
-        "pChange": 2.87,
-        "mCap": 96967.01632589499,
-        "sector": "Telecommunication"
-      },
-      {
-        "symbol": "RBLBANK",
-        "pChange": 2.39,
-        "mCap": 18308.459786479998,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "AUROPHARMA",
-        "pChange": 0.09,
-        "mCap": 74330.99171154,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "HINDZINC",
-        "pChange": 1.71,
-        "mCap": 209575.82240000003,
-        "sector": "Metals & Mining"
-      },
-      {
-        "symbol": "LUPIN",
-        "pChange": 1.51,
-        "mCap": 106550.48564547002,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "LAURUSLABS",
-        "pChange": 3.18,
-        "mCap": 53553.7729344,
-        "sector": "Healthcare"
-      },
-      {
-        "symbol": "HINDPETRO",
-        "pChange": 5.31,
-        "mCap": 71516.11479637,
-        "sector": "Oil Gas & Consumable Fuels"
-      },
-      {
-        "symbol": "BSE",
-        "pChange": 3.6,
-        "mCap": 114697.00245239999,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "ITC",
-        "pChange": 0.64,
-        "mCap": 366303.87886133,
-        "sector": "Fast Moving Consumer Goods"
-      },
-      {
-        "symbol": "INDHOTEL",
-        "pChange": 3.87,
-        "mCap": 86117.6497335,
-        "sector": "Consumer Services"
-      },
-      {
-        "symbol": "PHOENIXLTD",
-        "pChange": 2.14,
-        "mCap": 53967.0658179,
-        "sector": "Realty"
-      },
-      {
-        "symbol": "BAJFINANCE",
-        "pChange": 4.97,
-        "mCap": 530748.7010845001,
-        "sector": "Financial Services"
       },
       {
         "symbol": "CGPOWER",
@@ -14722,99 +15845,63 @@
         "sector": "Capital Goods"
       },
       {
-        "symbol": "IDFCFIRSTB",
-        "pChange": 2.99,
-        "mCap": 53361.89852664,
-        "sector": "Financial Services"
+        "symbol": "AUROPHARMA",
+        "pChange": 0.09,
+        "mCap": 74330.99171154,
+        "sector": "Healthcare"
       },
       {
-        "symbol": "BPCL",
-        "pChange": 4.07,
-        "mCap": 122495.65259268001,
-        "sector": "Oil Gas & Consumable Fuels"
-      },
-      {
-        "symbol": "SRF",
-        "pChange": 3.69,
-        "mCap": 73507.4281035,
-        "sector": "Chemicals"
-      },
-      {
-        "symbol": "CONCOR",
-        "pChange": 3.6,
-        "mCap": 33435.0273465,
-        "sector": "Services"
-      },
-      {
-        "symbol": "INDUSINDBK",
-        "pChange": 2.52,
-        "mCap": 62172.666141600006,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "TIINDIA",
-        "pChange": 3.71,
-        "mCap": 49597.823249279994,
-        "sector": "Automobile and Auto Components"
-      },
-      {
-        "symbol": "TVSMOTOR",
-        "pChange": 2.21,
-        "mCap": 165710.3853632,
-        "sector": "Automobile and Auto Components"
-      },
-      {
-        "symbol": "ULTRACEMCO",
-        "pChange": 3.95,
-        "mCap": 317398.9350841,
-        "sector": "Construction Materials"
-      },
-      {
-        "symbol": "ICICIGI",
-        "pChange": 0.45,
-        "mCap": 86216.701082,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "SONACOMS",
-        "pChange": 1.67,
-        "mCap": 30660.16091145,
-        "sector": "Automobile and Auto Components"
-      },
-      {
-        "symbol": "OBEROIRLTY",
-        "pChange": 2.17,
-        "mCap": 52435.07859777,
-        "sector": "Realty"
-      },
-      {
-        "symbol": "MUTHOOTFIN",
-        "pChange": 0.64,
-        "mCap": 125876.42596504,
-        "sector": "Financial Services"
-      },
-      {
-        "symbol": "MAZDOCK",
-        "pChange": 2.28,
-        "mCap": 91042.866,
-        "sector": "Capital Goods"
-      },
-      {
-        "symbol": "OFSS",
-        "pChange": 2.02,
-        "mCap": 57221.70163,
+        "symbol": "WIPRO",
+        "pChange": 0.75,
+        "mCap": 198162.62307489,
         "sector": "Information Technology"
       },
       {
-        "symbol": "FEDERALBNK",
-        "pChange": 3.75,
-        "mCap": 64999.772302009995,
+        "symbol": "ADANIENSOL",
+        "pChange": 2.23,
+        "mCap": 116284.1597456,
+        "sector": "Power"
+      },
+      {
+        "symbol": "HDFCLIFE",
+        "pChange": 1.93,
+        "mCap": 130212.1165475,
         "sector": "Financial Services"
       },
       {
-        "symbol": "M&M",
-        "pChange": 2.88,
-        "mCap": 378157.11750710005,
+        "symbol": "UNIONBANK",
+        "pChange": 2.98,
+        "mCap": 132527.02694312704,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "UNITDSPR",
+        "pChange": 4.41,
+        "mCap": 96846.76607695,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "PNB",
+        "pChange": 1.8,
+        "mCap": 123491.67541466,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "AMBUJACEM",
+        "pChange": 3.81,
+        "mCap": 101443.63553711999,
+        "sector": "Construction Materials"
+      },
+      {
+        "symbol": "ABCAPITAL",
+        "pChange": 2.8,
+        "mCap": 79422.375122,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "BHARATFORG",
+        "pChange": 3.72,
+        "mCap": 81741.192057,
         "sector": "Automobile and Auto Components"
       },
       {
@@ -14824,16 +15911,616 @@
         "sector": "Financial Services"
       },
       {
-        "symbol": "HINDALCO",
-        "pChange": 1.4,
-        "mCap": 191463.69975960001,
+        "symbol": "FORTIS",
+        "pChange": 1.19,
+        "mCap": 61053.465428760006,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "360ONE",
+        "pChange": 0.87,
+        "mCap": 40348.0473186,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "INDUSTOWER",
+        "pChange": 4.09,
+        "mCap": 113572.90668885,
+        "sector": "Telecommunication"
+      },
+      {
+        "symbol": "PGEL",
+        "pChange": 1.54,
+        "mCap": 14332.76171134,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "HDFCAMC",
+        "pChange": 3.97,
+        "mCap": 100417.0024264,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "BHEL",
+        "pChange": 1.98,
+        "mCap": 89785.003608675,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "RVNL",
+        "pChange": 3.32,
+        "mCap": 53908.194685500006,
+        "sector": "Construction"
+      },
+      {
+        "symbol": "PAYTM",
+        "pChange": 4.2,
+        "mCap": 66212.72569945,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "FEDERALBNK",
+        "pChange": 3.75,
+        "mCap": 64999.772302009995,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "INDHOTEL",
+        "pChange": 3.87,
+        "mCap": 86117.6497335,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "OIL",
+        "pChange": 2.8,
+        "mCap": 77694.921137115,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "AUBANK",
+        "pChange": 3.64,
+        "mCap": 65881.16872185,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "NMDC",
+        "pChange": 2.2,
+        "mCap": 67468.40787869999,
         "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "YESBANK",
+        "pChange": 2.72,
+        "mCap": 56891.270653091,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "ABB",
+        "pChange": 1.63,
+        "mCap": 130111.74224999998,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "VOLTAS",
+        "pChange": 4.11,
+        "mCap": 43101.0462324,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "LTF",
+        "pChange": 2.85,
+        "mCap": 63786.711827520005,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "GODREJCP",
+        "pChange": 0.46,
+        "mCap": 103040.72930669998,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "SIEMENS",
+        "pChange": 0.23,
+        "mCap": 106661.65245254998,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "SOLARINDS",
+        "pChange": 0.97,
+        "mCap": 113574.0680305,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "TIINDIA",
+        "pChange": 3.71,
+        "mCap": 49597.823249279994,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "UPL",
+        "pChange": 3.08,
+        "mCap": 52418.69026179501,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "MPHASIS",
+        "pChange": 2.59,
+        "mCap": 40396.502969,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "DMART",
+        "pChange": 2.85,
+        "mCap": 244662.61890664,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "BDL",
+        "pChange": 1.42,
+        "mCap": 43071.09375,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "BIOCON",
+        "pChange": 0.75,
+        "mCap": 59957.37852327,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "LAURUSLABS",
+        "pChange": 3.18,
+        "mCap": 53553.7729344,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "TATACONSUM",
+        "pChange": 3.07,
+        "mCap": 104356.773937,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "IDFCFIRSTB",
+        "pChange": 2.99,
+        "mCap": 53361.89852664,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "PETRONET",
+        "pChange": 1.49,
+        "mCap": 36240.00212608,
+        "sector": "Oil Gas & Consumable Fuels"
+      },
+      {
+        "symbol": "KEI",
+        "pChange": 2.74,
+        "mCap": 39196.243950000004,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "MANKIND",
+        "pChange": 2.65,
+        "mCap": 81673.48349520001,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "ANGELONE",
+        "pChange": 4.11,
+        "mCap": 20908.26868,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "NAUKRI",
+        "pChange": 1.73,
+        "mCap": 64297.38669600001,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "DIVISLAB",
+        "pChange": 0.11,
+        "mCap": 159812.08516000002,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "JSWSTEEL",
+        "pChange": 2.42,
+        "mCap": 277925.8432359,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "JINDALSTEL",
+        "pChange": 1.7,
+        "mCap": 114759.91091250001,
+        "sector": "Metals & Mining"
+      },
+      {
+        "symbol": "MARICO",
+        "pChange": 2.44,
+        "mCap": 96452.17936970001,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "POLICYBZR",
+        "pChange": 2.2,
+        "mCap": 67826.1771313,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "GMRAIRPORT",
+        "pChange": 4.99,
+        "mCap": 93974.88597280001,
+        "sector": "Services"
+      },
+      {
+        "symbol": "LTM",
+        "pChange": 2.84,
+        "mCap": 125179.4801262,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "LICHSGFIN",
+        "pChange": 3.61,
+        "mCap": 26257.257305,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "INDIANB",
+        "pChange": 3.88,
+        "mCap": 117280.15382567002,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "NYKAA",
+        "pChange": 2.24,
+        "mCap": 68713.393344,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "TORNTPHARM",
+        "pChange": 0.8,
+        "mCap": 143754.00739840002,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "SBICARD",
+        "pChange": 3.02,
+        "mCap": 64042.3247233,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "TATAELXSI",
+        "pChange": 0.71,
+        "mCap": 25899.720288,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "BANDHANBNK",
+        "pChange": 0.88,
+        "mCap": 24106.57610442,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "NESTLEIND",
+        "pChange": 1.71,
+        "mCap": 228833.0603544,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "BLUESTARCO",
+        "pChange": 2.71,
+        "mCap": 34236.91834988,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "GLENMARK",
+        "pChange": 0.43,
+        "mCap": 59205.7297282,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "OFSS",
+        "pChange": 2.02,
+        "mCap": 57221.70163,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "GODREJPROP",
+        "pChange": 2.95,
+        "mCap": 46428.161197739995,
+        "sector": "Realty"
+      },
+      {
+        "symbol": "APLAPOLLO",
+        "pChange": 4.81,
+        "mCap": 55110.751161,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "IREDA",
+        "pChange": 3.62,
+        "mCap": 32168.507249868,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "KALYANKJIL",
+        "pChange": 2.61,
+        "mCap": 38433.426803505,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "NBCC",
+        "pChange": 3.58,
+        "mCap": 22118.4,
+        "sector": "Construction"
+      },
+      {
+        "symbol": "ICICIGI",
+        "pChange": 0.45,
+        "mCap": 86216.701082,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "CONCOR",
+        "pChange": 3.6,
+        "mCap": 33435.0273465,
+        "sector": "Services"
+      },
+      {
+        "symbol": "DABUR",
+        "pChange": 1.31,
+        "mCap": 74991.62047216001,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "KPITTECH",
+        "pChange": 0.56,
+        "mCap": 18175.7344704,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "JSWENERGY",
+        "pChange": 0.55,
+        "mCap": 85290.17983910002,
+        "sector": "Power"
+      },
+      {
+        "symbol": "MANAPPURAM",
+        "pChange": 0.28,
+        "mCap": 21414.7986437,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "PIIND",
+        "pChange": 0.52,
+        "mCap": 42130.60418742,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "JUBLFOOD",
+        "pChange": 2.61,
+        "mCap": 29660.04174,
+        "sector": "Consumer Services"
+      },
+      {
+        "symbol": "SHREECEM",
+        "pChange": 2.9,
+        "mCap": 84374.829198,
+        "sector": "Construction Materials"
+      },
+      {
+        "symbol": "BANKINDIA",
+        "pChange": 1.89,
+        "mCap": 66669.268229704,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "BOSCHLTD",
+        "pChange": 3.14,
+        "mCap": 88628.3882,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "RBLBANK",
+        "pChange": 2.39,
+        "mCap": 18308.459786479998,
+        "sector": "Financial Services"
       },
       {
         "symbol": "UNOMINDA",
         "pChange": 4.1,
         "mCap": 61881.5848406,
         "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "INOXWIND",
+        "pChange": 2.43,
+        "mCap": 13480.2550116,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "SUPREMEIND",
+        "pChange": 1.73,
+        "mCap": 47870.0759595,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "SONACOMS",
+        "pChange": 1.67,
+        "mCap": 30660.16091145,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "LICI",
+        "pChange": 2.45,
+        "mCap": 479498.07571281004,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "NHPC",
+        "pChange": 1.89,
+        "mCap": 77045.41695435,
+        "sector": "Power"
+      },
+      {
+        "symbol": "IEX",
+        "pChange": 3.8,
+        "mCap": 10679.803887095,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "TATATECH",
+        "pChange": 2.24,
+        "mCap": 21543.292668864997,
+        "sector": "Information Technology"
+      },
+      {
+        "symbol": "PHOENIXLTD",
+        "pChange": 2.14,
+        "mCap": 53967.0658179,
+        "sector": "Realty"
+      },
+      {
+        "symbol": "HAVELLS",
+        "pChange": 0.24,
+        "mCap": 77403.4943028,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "KFINTECH",
+        "pChange": 3.24,
+        "mCap": 15630.6792924,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "PNBHOUSING",
+        "pChange": 4.43,
+        "mCap": 20423.8713392,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "PIDILITIND",
+        "pChange": 1.53,
+        "mCap": 135871.799448,
+        "sector": "Chemicals"
+      },
+      {
+        "symbol": "TORNTPOWER",
+        "pChange": 0.35,
+        "mCap": 68913.84854068,
+        "sector": "Power"
+      },
+      {
+        "symbol": "CAMS",
+        "pChange": 2.18,
+        "mCap": 15765.695307599999,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "ASTRAL",
+        "pChange": 2.35,
+        "mCap": 42790.59796264,
+        "sector": "Capital Goods"
+      },
+      {
+        "symbol": "PRESTIGE",
+        "pChange": 2.19,
+        "mCap": 51877.14914208001,
+        "sector": "Realty"
+      },
+      {
+        "symbol": "CROMPTON",
+        "pChange": 1.63,
+        "mCap": 15260.782537500001,
+        "sector": "Consumer Durables"
+      },
+      {
+        "symbol": "COLPAL",
+        "pChange": 1.49,
+        "mCap": 51043.54393278,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "ICICIPRULI",
+        "pChange": 1.38,
+        "mCap": 78055.86943398,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "HUDCO",
+        "pChange": 2.66,
+        "mCap": 33932.205,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "DALBHARAT",
+        "pChange": 2.51,
+        "mCap": 33574.305587,
+        "sector": "Construction Materials"
+      },
+      {
+        "symbol": "PATANJALI",
+        "pChange": 1.88,
+        "mCap": 51358.518004,
+        "sector": "Fast Moving Consumer Goods"
+      },
+      {
+        "symbol": "PPLPHARMA",
+        "pChange": 2.39,
+        "mCap": 18137.590733849996,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "PAGEIND",
+        "pChange": 2.89,
+        "mCap": 35971.243650000004,
+        "sector": "Textiles"
+      },
+      {
+        "symbol": "OBEROIRLTY",
+        "pChange": 2.17,
+        "mCap": 52435.07859777,
+        "sector": "Realty"
+      },
+      {
+        "symbol": "EXIDEIND",
+        "pChange": 2.77,
+        "mCap": 25398,
+        "sector": "Automobile and Auto Components"
+      },
+      {
+        "symbol": "NUVAMA",
+        "pChange": 3.64,
+        "mCap": 20952.9781463,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "BAJAJHLDNG",
+        "pChange": 2.11,
+        "mCap": 104115.07860499999,
+        "sector": "Financial Services"
+      },
+      {
+        "symbol": "ALKEM",
+        "pChange": 3.04,
+        "mCap": 63381.406500000005,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "ZYDUSLIFE",
+        "pChange": 2.95,
+        "mCap": 89152.331514,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "SYNGENE",
+        "pChange": 0.57,
+        "mCap": 16121.606194200001,
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "DELHIVERY",
+        "pChange": 1.85,
+        "mCap": 31366.6797252,
+        "sector": "Services"
       }
     ]
   }
