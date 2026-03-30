@@ -1,6 +1,6 @@
 {
-  "ts": 1774867868.1481955,
-  "updated": "30-Mar 10:51",
+  "ts": 1774871013.2894225,
+  "updated": "30-Mar 11:43",
   "indices": {
     "NIFTY_50": [
       {
@@ -11401,9 +11401,9 @@
       },
       {
         "symbol": "PCJEWELLER",
-        "ltp": 7.6,
-        "change": -0.37,
-        "pChange": -4.64,
+        "ltp": 7.97,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 7.97
       },
       {
