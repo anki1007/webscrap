@@ -6,7 +6,7 @@
   "dii_buy": 37579.14,
   "dii_sell": 34012.99,
   "dii_net": 3566.15,
-  "fetched_at": "2026-03-27T13:50:16.816717+00:00",
+  "fetched_at": "2026-03-30T14:07:00.171995+00:00",
   "raw": [
     {
       "category": "DII",
@@ -22,5 +22,10 @@
       "sellValue": "24853.69",
       "netValue": "-4367.3"
     }
-  ]
+  ],
+  "nifty_price": 22331.4,
+  "nifty_change": -488.2,
+  "nifty_change_pct": -2.14,
+  "vix_price": 27.89,
+  "vix_change_pct": 4.04
 }
