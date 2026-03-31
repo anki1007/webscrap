@@ -1,26 +1,26 @@
 {
-  "date": "27-Mar-2026",
-  "fii_buy": 20486.39,
-  "fii_sell": 24853.69,
-  "fii_net": -4367.3,
-  "dii_buy": 37579.14,
-  "dii_sell": 34012.99,
-  "dii_net": 3566.15,
-  "fetched_at": "2026-03-30T14:07:00.171995+00:00",
+  "date": "30-Mar-2026",
+  "fii_buy": 21952.95,
+  "fii_sell": 33116.01,
+  "fii_net": -11163.06,
+  "dii_buy": 26358.5,
+  "dii_sell": 11463.78,
+  "dii_net": 14894.72,
+  "fetched_at": "2026-03-31T14:08:31.485531+00:00",
   "raw": [
     {
       "category": "DII",
-      "date": "27-Mar-2026",
-      "buyValue": "37579.14",
-      "sellValue": "34012.99",
-      "netValue": "3566.15"
+      "date": "30-Mar-2026",
+      "buyValue": "26358.5",
+      "sellValue": "11463.78",
+      "netValue": "14894.72"
     },
     {
       "category": "FII/FPI",
-      "date": "27-Mar-2026",
-      "buyValue": "20486.39",
-      "sellValue": "24853.69",
-      "netValue": "-4367.3"
+      "date": "30-Mar-2026",
+      "buyValue": "21952.95",
+      "sellValue": "33116.01",
+      "netValue": "-11163.06"
     }
   ],
   "nifty_price": 22331.4,
