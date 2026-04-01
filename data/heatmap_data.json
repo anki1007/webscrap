@@ -1,6 +1,6 @@
 {
-  "ts": 1775039488.4242804,
-  "updated": "01-Apr 10:31",
+  "ts": 1775043052.613569,
+  "updated": "01-Apr 11:30",
   "indices": {
     "NIFTY_50": [
       {
@@ -1528,9 +1528,9 @@
       },
       {
         "symbol": "VMM",
-        "ltp": 105.25,
-        "change": -0.05,
-        "pChange": -0.05,
+        "ltp": 105.3,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 105.3
       },
       {
@@ -3042,9 +3042,9 @@
       },
       {
         "symbol": "VMM",
-        "ltp": 105.25,
-        "change": -0.05,
-        "pChange": -0.05,
+        "ltp": 105.3,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 105.3
       },
       {
@@ -5879,9 +5879,9 @@
       },
       {
         "symbol": "VMM",
-        "ltp": 105.25,
-        "change": -0.05,
-        "pChange": -0.05,
+        "ltp": 105.3,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 105.3
       },
       {
@@ -8788,9 +8788,9 @@
       },
       {
         "symbol": "VMM",
-        "ltp": 105.25,
-        "change": -0.05,
-        "pChange": -0.05,
+        "ltp": 105.3,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 105.3
       },
       {
@@ -13797,9 +13797,9 @@
       },
       {
         "symbol": "VMM",
-        "ltp": 105.25,
-        "change": -0.05,
-        "pChange": -0.05,
+        "ltp": 105.3,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 105.3
       },
       {
