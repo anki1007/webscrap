@@ -1,6 +1,6 @@
 {
-  "ts": 1775126011.5346115,
-  "updated": "02-Apr 10:33",
+  "ts": 1775129202.742252,
+  "updated": "02-Apr 11:26",
   "indices": {
     "NIFTY_50": [
       {
@@ -5254,9 +5254,9 @@
       },
       {
         "symbol": "KPIL",
-        "ltp": 1096.8,
-        "change": 0.3,
-        "pChange": 0.03,
+        "ltp": 1096.5,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 1096.5
       },
       {
@@ -8086,9 +8086,9 @@
       },
       {
         "symbol": "KPIL",
-        "ltp": 1096.8,
-        "change": 0.3,
-        "pChange": 0.03,
+        "ltp": 1096.5,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 1096.5
       },
       {
@@ -10860,9 +10860,9 @@
       },
       {
         "symbol": "KPIL",
-        "ltp": 1096.8,
-        "change": 0.3,
-        "pChange": 0.03,
+        "ltp": 1096.5,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 1096.5
       },
       {
