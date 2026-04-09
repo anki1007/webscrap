@@ -11,8 +11,8 @@ from pathlib import Path
 
 # Configuration
 DATA_DIR     = Path("data")
-LATEST_FILE  = DATA_DIR / "fii_dii_latest.json"
-HISTORY_FILE = DATA_DIR / "fii_dii_history.json"
+LATEST_FILE  = DATA_DIR / "latest.json"
+HISTORY_FILE = DATA_DIR / "history.json"
 MAX_HISTORY  = 120
 NSE_API      = "https://www.nseindia.com/api/fiidiiTradeReact"
 FAO_BASE     = "https://nsearchives.nseindia.com/content/nsccl"

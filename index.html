@@ -2829,8 +2829,8 @@ async function injectLiveRow(d) {
 
 async function loadHistory() {
   const sources = [
-    './data/fii_dii_history.json',
-    'https://raw.githubusercontent.com/anki1007/webscrap/main/data/fii_dii_history.json'
+    './data/history.json',
+    'https://raw.githubusercontent.com/anki1007/webscrap/main/data/history.json'
   ];
   for (const src of sources) {
     try {
@@ -2952,8 +2952,8 @@ async function fetchLiveNSE(isManual = false) {
   /* ── TIER 2: Static fallbacks (GitHub JSON) ── */
   if (!success) {
     const fallbacks = [
-      './data/fii_dii_latest.json',
-      'https://raw.githubusercontent.com/anki1007/webscrap/main/data/fii_dii_latest.json',
+      './data/latest.json',
+      'https://raw.githubusercontent.com/anki1007/webscrap/main/data/latest.json',
     ];
     for (const src of fallbacks) {
       try {
