@@ -22,16 +22,18 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests curl_cffi
+        run: pip install requests curl_cffi beautifulsoup4
 
-      - name: Run scraper
-        run: python fii_dii_scrape.py
+      - name: Run scrapers
+        run: |
+          python fii_dii_scrape.py
+          python fortnightly_scrape.py
 
       - name: Commit & push data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/fii_dii_latest.json data/fii_dii_history.json
+          git add data/*.json
           git diff --cached --quiet && echo "No changes" || \
-            git commit -m "chore: FII/DII data $(date -u +'%Y-%m-%d %H:%M UTC')" && \
+            git commit -m "chore: FII/DII & FPI flows updated $(date -u +'%Y-%m-%d %H:%M UTC')" && \
             git push
