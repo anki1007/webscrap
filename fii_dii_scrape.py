@@ -232,7 +232,7 @@ def main():
         last_stored_dt = parse_dt(history[0]["date"])
         start_dt = last_stored_dt + timedelta(days=1)
     else:
-        start_dt = latest_dt - timedelta(days=30)
+        start_dt = latest_dt - timedelta(days=60)
     
     curr_dt = start_dt
     added_any = False
