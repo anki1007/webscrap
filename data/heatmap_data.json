@@ -1,6 +1,6 @@
 {
-  "ts": 1775730016.5867062,
-  "updated": "09-Apr 10:20",
+  "ts": 1775733490.4139802,
+  "updated": "09-Apr 11:18",
   "indices": {
     "NIFTY_50": [
       {
@@ -1527,18 +1527,18 @@
         "prevClose": 2756.2
       },
       {
-        "symbol": "LENSKART",
-        "ltp": 516.0,
-        "change": 10.4,
-        "pChange": 2.06,
-        "prevClose": 505.6
-      },
-      {
         "symbol": "RVNL",
         "ltp": 272.9,
         "change": -2.04,
         "pChange": -0.74,
         "prevClose": 274.94
+      },
+      {
+        "symbol": "LENSKART",
+        "ltp": 516.0,
+        "change": 10.4,
+        "pChange": 2.06,
+        "prevClose": 505.6
       },
       {
         "symbol": "AMBUJACEM",
@@ -3125,18 +3125,18 @@
         "prevClose": 2756.2
       },
       {
-        "symbol": "LENSKART",
-        "ltp": 516.0,
-        "change": 10.4,
-        "pChange": 2.06,
-        "prevClose": 505.6
-      },
-      {
         "symbol": "RVNL",
         "ltp": 272.9,
         "change": -2.04,
         "pChange": -0.74,
         "prevClose": 274.94
+      },
+      {
+        "symbol": "LENSKART",
+        "ltp": 516.0,
+        "change": 10.4,
+        "pChange": 2.06,
+        "prevClose": 505.6
       },
       {
         "symbol": "AMBUJACEM",
@@ -3307,18 +3307,18 @@
         "prevClose": 98.91
       },
       {
-        "symbol": "JSWENERGY",
-        "ltp": 488.85,
-        "change": -13.2,
-        "pChange": -2.63,
-        "prevClose": 502.05
-      },
-      {
         "symbol": "ZEEL",
         "ltp": 79.05,
         "change": 0.26,
         "pChange": 0.33,
         "prevClose": 78.79
+      },
+      {
+        "symbol": "JSWENERGY",
+        "ltp": 488.85,
+        "change": -13.2,
+        "pChange": -2.63,
+        "prevClose": 502.05
       },
       {
         "symbol": "YESBANK",
@@ -4987,18 +4987,18 @@
         "prevClose": 126.68
       },
       {
-        "symbol": "INTELLECT",
-        "ltp": 673.4,
-        "change": -11.9,
-        "pChange": -1.74,
-        "prevClose": 685.3
-      },
-      {
         "symbol": "GABRIEL",
         "ltp": 901.1,
         "change": -17.85,
         "pChange": -1.94,
         "prevClose": 918.95
+      },
+      {
+        "symbol": "INTELLECT",
+        "ltp": 673.4,
+        "change": -11.9,
+        "pChange": -1.74,
+        "prevClose": 685.3
       },
       {
         "symbol": "DALBHARAT",
@@ -5428,6 +5428,13 @@
         "prevClose": 387.75
       },
       {
+        "symbol": "KIMS",
+        "ltp": 661.0,
+        "change": -3.3,
+        "pChange": -0.5,
+        "prevClose": 664.3
+      },
+      {
         "symbol": "BLUEDART",
         "ltp": 5055.0,
         "change": 19.0,
@@ -5440,13 +5447,6 @@
         "change": 0.6,
         "pChange": 0.18,
         "prevClose": 335.4
-      },
-      {
-        "symbol": "KIMS",
-        "ltp": 661.0,
-        "change": -3.3,
-        "pChange": -0.5,
-        "prevClose": 664.3
       },
       {
         "symbol": "CGCL",
@@ -5871,18 +5871,18 @@
         "prevClose": 3291.6
       },
       {
-        "symbol": "LENSKART",
-        "ltp": 516.0,
-        "change": 10.4,
-        "pChange": 2.06,
-        "prevClose": 505.6
-      },
-      {
         "symbol": "RVNL",
         "ltp": 272.9,
         "change": -2.04,
         "pChange": -0.74,
         "prevClose": 274.94
+      },
+      {
+        "symbol": "LENSKART",
+        "ltp": 516.0,
+        "change": 10.4,
+        "pChange": 2.06,
+        "prevClose": 505.6
       },
       {
         "symbol": "APARINDS",
@@ -7882,18 +7882,18 @@
         "prevClose": 126.68
       },
       {
-        "symbol": "INTELLECT",
-        "ltp": 673.4,
-        "change": -11.9,
-        "pChange": -1.74,
-        "prevClose": 685.3
-      },
-      {
         "symbol": "GABRIEL",
         "ltp": 901.1,
         "change": -17.85,
         "pChange": -1.94,
         "prevClose": 918.95
+      },
+      {
+        "symbol": "INTELLECT",
+        "ltp": 673.4,
+        "change": -11.9,
+        "pChange": -1.74,
+        "prevClose": 685.3
       },
       {
         "symbol": "ACMESOLAR",
@@ -8253,6 +8253,13 @@
         "prevClose": 838.4
       },
       {
+        "symbol": "KIMS",
+        "ltp": 661.0,
+        "change": -3.3,
+        "pChange": -0.5,
+        "prevClose": 664.3
+      },
+      {
         "symbol": "BLUEDART",
         "ltp": 5055.0,
         "change": 19.0,
@@ -8265,13 +8272,6 @@
         "change": 0.6,
         "pChange": 0.18,
         "prevClose": 335.4
-      },
-      {
-        "symbol": "KIMS",
-        "ltp": 661.0,
-        "change": -3.3,
-        "pChange": -0.5,
-        "prevClose": 664.3
       },
       {
         "symbol": "CGCL",
@@ -8857,18 +8857,18 @@
         "prevClose": 194.21
       },
       {
-        "symbol": "LENSKART",
-        "ltp": 516.0,
-        "change": 10.4,
-        "pChange": 2.06,
-        "prevClose": 505.6
-      },
-      {
         "symbol": "RVNL",
         "ltp": 272.9,
         "change": -2.04,
         "pChange": -0.74,
         "prevClose": 274.94
+      },
+      {
+        "symbol": "LENSKART",
+        "ltp": 516.0,
+        "change": 10.4,
+        "pChange": 2.06,
+        "prevClose": 505.6
       },
       {
         "symbol": "APARINDS",
@@ -9004,18 +9004,18 @@
         "prevClose": 919.35
       },
       {
-        "symbol": "JSWENERGY",
-        "ltp": 488.85,
-        "change": -13.2,
-        "pChange": -2.63,
-        "prevClose": 502.05
-      },
-      {
         "symbol": "ZEEL",
         "ltp": 79.05,
         "change": 0.26,
         "pChange": 0.33,
         "prevClose": 78.79
+      },
+      {
+        "symbol": "JSWENERGY",
+        "ltp": 488.85,
+        "change": -13.2,
+        "pChange": -2.63,
+        "prevClose": 502.05
       },
       {
         "symbol": "YESBANK",
@@ -10593,18 +10593,18 @@
         "prevClose": 126.68
       },
       {
-        "symbol": "INTELLECT",
-        "ltp": 673.4,
-        "change": -11.9,
-        "pChange": -1.74,
-        "prevClose": 685.3
-      },
-      {
         "symbol": "GABRIEL",
         "ltp": 901.1,
         "change": -17.85,
         "pChange": -1.94,
         "prevClose": 918.95
+      },
+      {
+        "symbol": "INTELLECT",
+        "ltp": 673.4,
+        "change": -11.9,
+        "pChange": -1.74,
+        "prevClose": 685.3
       },
       {
         "symbol": "DALBHARAT",
@@ -11034,6 +11034,13 @@
         "prevClose": 387.75
       },
       {
+        "symbol": "KIMS",
+        "ltp": 661.0,
+        "change": -3.3,
+        "pChange": -0.5,
+        "prevClose": 664.3
+      },
+      {
         "symbol": "BLUEDART",
         "ltp": 5055.0,
         "change": 19.0,
@@ -11046,13 +11053,6 @@
         "change": 0.6,
         "pChange": 0.18,
         "prevClose": 335.4
-      },
-      {
-        "symbol": "KIMS",
-        "ltp": 661.0,
-        "change": -3.3,
-        "pChange": -0.5,
-        "prevClose": 664.3
       },
       {
         "symbol": "CGCL",
@@ -12296,18 +12296,18 @@
         "prevClose": 810.35
       },
       {
-        "symbol": "BBOX",
-        "ltp": 490.0,
-        "change": -9.8,
-        "pChange": -1.96,
-        "prevClose": 499.8
-      },
-      {
         "symbol": "GMRP&UI",
         "ltp": 102.05,
         "change": -2.57,
         "pChange": -2.46,
         "prevClose": 104.62
+      },
+      {
+        "symbol": "BBOX",
+        "ltp": 490.0,
+        "change": -9.8,
+        "pChange": -1.96,
+        "prevClose": 499.8
       },
       {
         "symbol": "GOKULAGRO",
@@ -12625,18 +12625,18 @@
         "prevClose": 473.95
       },
       {
-        "symbol": "HCG",
-        "ltp": 544.65,
-        "change": -9.5,
-        "pChange": -1.71,
-        "prevClose": 554.15
-      },
-      {
         "symbol": "RALLIS",
         "ltp": 254.8,
         "change": -3.93,
         "pChange": -1.52,
         "prevClose": 258.73
+      },
+      {
+        "symbol": "HCG",
+        "ltp": 544.65,
+        "change": -9.5,
+        "pChange": -1.71,
+        "prevClose": 554.15
       },
       {
         "symbol": "QUESS",
