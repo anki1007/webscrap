@@ -1,6 +1,6 @@
 {
-  "ts": 1775817437.2694907,
-  "updated": "10-Apr 10:37",
+  "ts": 1775820554.0881872,
+  "updated": "10-Apr 11:29",
   "indices": {
     "NIFTY_50": [
       {
@@ -3798,9 +3798,9 @@
       },
       {
         "symbol": "ZENTEC",
-        "ltp": 1541.0,
-        "change": 7.8,
-        "pChange": 0.51,
+        "ltp": 1533.2,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 1533.2
       },
       {
@@ -7071,9 +7071,9 @@
       },
       {
         "symbol": "ZENTEC",
-        "ltp": 1541.0,
-        "change": 7.8,
-        "pChange": 0.51,
+        "ltp": 1533.2,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 1533.2
       },
       {
@@ -9432,9 +9432,9 @@
       },
       {
         "symbol": "ZENTEC",
-        "ltp": 1541.0,
-        "change": 7.8,
-        "pChange": 0.51,
+        "ltp": 1533.2,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 1533.2
       },
       {
