@@ -1,31 +1,31 @@
 {
-  "date": "16-Apr-2026",
-  "fii_buy": 16209.44,
-  "fii_sell": 15827.08,
-  "fii_net": 382.36,
-  "dii_buy": 16538.08,
-  "dii_sell": 19965.83,
-  "dii_net": -3427.75,
-  "fetched_at": "2026-04-16T14:20:21.525711+00:00",
+  "date": "17-Apr-2026",
+  "fii_buy": 16034.88,
+  "fii_sell": 15351.68,
+  "fii_net": 683.2,
+  "dii_buy": 17513.99,
+  "dii_sell": 22235.47,
+  "dii_net": -4721.48,
+  "fetched_at": "2026-04-17T14:03:06.841086+00:00",
   "raw": [
     {
       "category": "DII",
-      "date": "16-Apr-2026",
-      "buyValue": "16538.08",
-      "sellValue": "19965.83",
-      "netValue": "-3427.75"
+      "date": "17-Apr-2026",
+      "buyValue": "17513.99",
+      "sellValue": "22235.47",
+      "netValue": "-4721.48"
     },
     {
       "category": "FII/FPI",
-      "date": "16-Apr-2026",
-      "buyValue": "16209.44",
-      "sellValue": "15827.08",
-      "netValue": "382.36"
+      "date": "17-Apr-2026",
+      "buyValue": "16034.88",
+      "sellValue": "15351.68",
+      "netValue": "683.2"
     }
   ],
-  "nifty_price": 24196.75,
-  "nifty_change": -34.55,
-  "nifty_change_pct": -0.14,
-  "vix_price": 18.09,
-  "vix_change_pct": -3.12
+  "nifty_price": 24353.55,
+  "nifty_change": 156.8,
+  "nifty_change_pct": 0.65,
+  "vix_price": 17.21,
+  "vix_change_pct": -4.86
 }
