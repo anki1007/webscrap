@@ -1,6 +1,6 @@
 {
-  "ts": 1776766730.3585417,
-  "updated": "21-Apr 10:18",
+  "ts": 1776771263.4253926,
+  "updated": "21-Apr 11:34",
   "indices": {
     "NIFTY_50": [
       {
@@ -102,18 +102,18 @@
         "prevClose": 2231.5
       },
       {
-        "symbol": "TCS",
-        "ltp": 2609.9,
-        "change": 30.3,
-        "pChange": 1.17,
-        "prevClose": 2579.6
-      },
-      {
         "symbol": "AXISBANK",
         "ltp": 1375.5,
         "change": 20.8,
         "pChange": 1.54,
         "prevClose": 1354.7
+      },
+      {
+        "symbol": "TCS",
+        "ltp": 2609.9,
+        "change": 30.3,
+        "pChange": 1.17,
+        "prevClose": 2579.6
       },
       {
         "symbol": "ADANIPORTS",
@@ -834,18 +834,18 @@
         "prevClose": 2231.5
       },
       {
-        "symbol": "TCS",
-        "ltp": 2609.9,
-        "change": 30.3,
-        "pChange": 1.17,
-        "prevClose": 2579.6
-      },
-      {
         "symbol": "AXISBANK",
         "ltp": 1375.5,
         "change": 20.8,
         "pChange": 1.54,
         "prevClose": 1354.7
+      },
+      {
+        "symbol": "TCS",
+        "ltp": 2609.9,
+        "change": 30.3,
+        "pChange": 1.17,
+        "prevClose": 2579.6
       },
       {
         "symbol": "ADANIPORTS",
@@ -2278,18 +2278,18 @@
         "prevClose": 2231.5
       },
       {
-        "symbol": "TCS",
-        "ltp": 2609.9,
-        "change": 30.3,
-        "pChange": 1.17,
-        "prevClose": 2579.6
-      },
-      {
         "symbol": "AXISBANK",
         "ltp": 1375.5,
         "change": 20.8,
         "pChange": 1.54,
         "prevClose": 1354.7
+      },
+      {
+        "symbol": "TCS",
+        "ltp": 2609.9,
+        "change": 30.3,
+        "pChange": 1.17,
+        "prevClose": 2579.6
       },
       {
         "symbol": "ONESOURCE",
@@ -3503,18 +3503,18 @@
         "prevClose": 713.15
       },
       {
-        "symbol": "APLAPOLLO",
-        "ltp": 2114.0,
-        "change": -29.9,
-        "pChange": -1.39,
-        "prevClose": 2143.9
-      },
-      {
         "symbol": "JSWCEMENT",
         "ltp": 127.9,
         "change": -1.55,
         "pChange": -1.2,
         "prevClose": 129.45
+      },
+      {
+        "symbol": "APLAPOLLO",
+        "ltp": 2114.0,
+        "change": -29.9,
+        "pChange": -1.39,
+        "prevClose": 2143.9
       },
       {
         "symbol": "NYKAA",
@@ -4798,18 +4798,18 @@
         "prevClose": 789.9
       },
       {
-        "symbol": "SHYAMMETL",
-        "ltp": 821.0,
-        "change": -30.55,
-        "pChange": -3.59,
-        "prevClose": 851.55
-      },
-      {
         "symbol": "CENTRALBK",
         "ltp": 36.29,
         "change": 0.56,
         "pChange": 1.57,
         "prevClose": 35.73
+      },
+      {
+        "symbol": "SHYAMMETL",
+        "ltp": 821.0,
+        "change": -30.55,
+        "pChange": -3.59,
+        "prevClose": 851.55
       },
       {
         "symbol": "CREDITACC",
@@ -5260,18 +5260,18 @@
         "prevClose": 302.95
       },
       {
-        "symbol": "NIVABUPA",
-        "ltp": 81.0,
-        "change": 3.39,
-        "pChange": 4.37,
-        "prevClose": 77.61
-      },
-      {
         "symbol": "SBFC",
         "ltp": 99.0,
         "change": 2.83,
         "pChange": 2.94,
         "prevClose": 96.17
+      },
+      {
+        "symbol": "NIVABUPA",
+        "ltp": 81.0,
+        "change": 3.39,
+        "pChange": 4.37,
+        "prevClose": 77.61
       },
       {
         "symbol": "HONAUT",
@@ -7735,18 +7735,18 @@
         "prevClose": 419.05
       },
       {
-        "symbol": "SHYAMMETL",
-        "ltp": 821.0,
-        "change": -30.55,
-        "pChange": -3.59,
-        "prevClose": 851.55
-      },
-      {
         "symbol": "CENTRALBK",
         "ltp": 36.29,
         "change": 0.56,
         "pChange": 1.57,
         "prevClose": 35.73
+      },
+      {
+        "symbol": "SHYAMMETL",
+        "ltp": 821.0,
+        "change": -30.55,
+        "pChange": -3.59,
+        "prevClose": 851.55
       },
       {
         "symbol": "CREDITACC",
@@ -8120,18 +8120,18 @@
         "prevClose": 302.95
       },
       {
-        "symbol": "NIVABUPA",
-        "ltp": 81.0,
-        "change": 3.39,
-        "pChange": 4.37,
-        "prevClose": 77.61
-      },
-      {
         "symbol": "SBFC",
         "ltp": 99.0,
         "change": 2.83,
         "pChange": 2.94,
         "prevClose": 96.17
+      },
+      {
+        "symbol": "NIVABUPA",
+        "ltp": 81.0,
+        "change": 3.39,
+        "pChange": 4.37,
+        "prevClose": 77.61
       },
       {
         "symbol": "TIMKEN",
@@ -9207,18 +9207,18 @@
         "prevClose": 713.15
       },
       {
-        "symbol": "APLAPOLLO",
-        "ltp": 2114.0,
-        "change": -29.9,
-        "pChange": -1.39,
-        "prevClose": 2143.9
-      },
-      {
         "symbol": "JSWCEMENT",
         "ltp": 127.9,
         "change": -1.55,
         "pChange": -1.2,
         "prevClose": 129.45
+      },
+      {
+        "symbol": "APLAPOLLO",
+        "ltp": 2114.0,
+        "change": -29.9,
+        "pChange": -1.39,
+        "prevClose": 2143.9
       },
       {
         "symbol": "NYKAA",
@@ -10418,18 +10418,18 @@
         "prevClose": 789.9
       },
       {
-        "symbol": "SHYAMMETL",
-        "ltp": 821.0,
-        "change": -30.55,
-        "pChange": -3.59,
-        "prevClose": 851.55
-      },
-      {
         "symbol": "CENTRALBK",
         "ltp": 36.29,
         "change": 0.56,
         "pChange": 1.57,
         "prevClose": 35.73
+      },
+      {
+        "symbol": "SHYAMMETL",
+        "ltp": 821.0,
+        "change": -30.55,
+        "pChange": -3.59,
+        "prevClose": 851.55
       },
       {
         "symbol": "CREDITACC",
@@ -10866,18 +10866,18 @@
         "prevClose": 302.95
       },
       {
-        "symbol": "NIVABUPA",
-        "ltp": 81.0,
-        "change": 3.39,
-        "pChange": 4.37,
-        "prevClose": 77.61
-      },
-      {
         "symbol": "SBFC",
         "ltp": 99.0,
         "change": 2.83,
         "pChange": 2.94,
         "prevClose": 96.17
+      },
+      {
+        "symbol": "NIVABUPA",
+        "ltp": 81.0,
+        "change": 3.39,
+        "pChange": 4.37,
+        "prevClose": 77.61
       },
       {
         "symbol": "HONAUT",
@@ -12310,6 +12310,13 @@
         "prevClose": 104.89
       },
       {
+        "symbol": "TARC",
+        "ltp": 137.15,
+        "change": 1.05,
+        "pChange": 0.77,
+        "prevClose": 136.1
+      },
+      {
         "symbol": "GREAVESCOT",
         "ltp": 157.01,
         "change": -0.87,
@@ -12336,13 +12343,6 @@
         "change": -3.85,
         "pChange": -0.4,
         "prevClose": 959.85
-      },
-      {
-        "symbol": "TARC",
-        "ltp": 137.15,
-        "change": 1.05,
-        "pChange": 0.77,
-        "prevClose": 136.1
       },
       {
         "symbol": "SAMHI",
@@ -12576,18 +12576,18 @@
         "prevClose": 613.35
       },
       {
-        "symbol": "CELLO",
-        "ltp": 426.45,
-        "change": 2.2,
-        "pChange": 0.52,
-        "prevClose": 424.25
-      },
-      {
         "symbol": "NESCO",
         "ltp": 1208.6,
         "change": 23.2,
         "pChange": 1.96,
         "prevClose": 1185.4
+      },
+      {
+        "symbol": "CELLO",
+        "ltp": 426.45,
+        "change": 2.2,
+        "pChange": 0.52,
+        "prevClose": 424.25
       },
       {
         "symbol": "SKFINDUS",
@@ -13089,18 +13089,18 @@
         "prevClose": 2231.5
       },
       {
-        "symbol": "TCS",
-        "ltp": 2609.9,
-        "change": 30.3,
-        "pChange": 1.17,
-        "prevClose": 2579.6
-      },
-      {
         "symbol": "AXISBANK",
         "ltp": 1375.5,
         "change": 20.8,
         "pChange": 1.54,
         "prevClose": 1354.7
+      },
+      {
+        "symbol": "TCS",
+        "ltp": 2609.9,
+        "change": 30.3,
+        "pChange": 1.17,
+        "prevClose": 2579.6
       },
       {
         "symbol": "ADANIPORTS",
