@@ -1,6 +1,6 @@
 {
-  "ts": 1776852614.3333232,
-  "updated": "22-Apr 10:10",
+  "ts": 1776856854.3390815,
+  "updated": "22-Apr 11:20",
   "indices": {
     "NIFTY_50": [
       {
@@ -1205,18 +1205,18 @@
         "prevClose": 442.55
       },
       {
-        "symbol": "SIEMENS",
-        "ltp": 3825.2,
-        "change": 103.5,
-        "pChange": 2.78,
-        "prevClose": 3721.7
-      },
-      {
         "symbol": "IDEA",
         "ltp": 9.51,
         "change": -0.04,
         "pChange": -0.42,
         "prevClose": 9.55
+      },
+      {
+        "symbol": "SIEMENS",
+        "ltp": 3825.2,
+        "change": 103.5,
+        "pChange": 2.78,
+        "prevClose": 3721.7
       },
       {
         "symbol": "SWIGGY",
@@ -1829,9 +1829,9 @@
       },
       {
         "symbol": "UPL",
-        "ltp": 652.0,
-        "change": -2.3,
-        "pChange": -0.35,
+        "ltp": 654.3,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 654.3
       },
       {
@@ -2747,18 +2747,18 @@
         "prevClose": 442.55
       },
       {
-        "symbol": "SIEMENS",
-        "ltp": 3825.2,
-        "change": 103.5,
-        "pChange": 2.78,
-        "prevClose": 3721.7
-      },
-      {
         "symbol": "IDEA",
         "ltp": 9.51,
         "change": -0.04,
         "pChange": -0.42,
         "prevClose": 9.55
+      },
+      {
+        "symbol": "SIEMENS",
+        "ltp": 3825.2,
+        "change": 103.5,
+        "pChange": 2.78,
+        "prevClose": 3721.7
       },
       {
         "symbol": "SWIGGY",
@@ -3686,9 +3686,9 @@
       },
       {
         "symbol": "UPL",
-        "ltp": 652.0,
-        "change": -2.3,
-        "pChange": -0.35,
+        "ltp": 654.3,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 654.3
       },
       {
@@ -3986,18 +3986,18 @@
         "prevClose": 42.23
       },
       {
-        "symbol": "LICHSGFIN",
-        "ltp": 558.9,
-        "change": -6.25,
-        "pChange": -1.11,
-        "prevClose": 565.15
-      },
-      {
         "symbol": "FACT",
         "ltp": 932.0,
         "change": 20.5,
         "pChange": 2.25,
         "prevClose": 911.5
+      },
+      {
+        "symbol": "LICHSGFIN",
+        "ltp": 558.9,
+        "change": -6.25,
+        "pChange": -1.11,
+        "prevClose": 565.15
       },
       {
         "symbol": "COROMANDEL",
@@ -4441,18 +4441,18 @@
         "prevClose": 1266.35
       },
       {
-        "symbol": "LINDEINDIA",
-        "ltp": 7264.5,
-        "change": 195.5,
-        "pChange": 2.77,
-        "prevClose": 7069.0
-      },
-      {
         "symbol": "ITCHOTELS",
         "ltp": 163.7,
         "change": -1.35,
         "pChange": -0.82,
         "prevClose": 165.05
+      },
+      {
+        "symbol": "LINDEINDIA",
+        "ltp": 7264.5,
+        "change": 195.5,
+        "pChange": 2.77,
+        "prevClose": 7069.0
       },
       {
         "symbol": "JSL",
@@ -4798,6 +4798,13 @@
         "prevClose": 304.8
       },
       {
+        "symbol": "NAVA",
+        "ltp": 698.0,
+        "change": 6.0,
+        "pChange": 0.87,
+        "prevClose": 692.0
+      },
+      {
         "symbol": "ZYDUSLIFE",
         "ltp": 928.0,
         "change": -0.6,
@@ -4810,13 +4817,6 @@
         "change": 60.0,
         "pChange": 0.58,
         "prevClose": 10329.0
-      },
-      {
-        "symbol": "NAVA",
-        "ltp": 698.0,
-        "change": 6.0,
-        "pChange": 0.87,
-        "prevClose": 692.0
       },
       {
         "symbol": "CLEAN",
@@ -4894,6 +4894,13 @@
         "change": 14.1,
         "pChange": 3.0,
         "prevClose": 470.7
+      },
+      {
+        "symbol": "CHOICEIN",
+        "ltp": 710.0,
+        "change": -15.9,
+        "pChange": -2.19,
+        "prevClose": 725.9
       },
       {
         "symbol": "CREDITACC",
@@ -4994,13 +5001,6 @@
         "prevClose": 292.73
       },
       {
-        "symbol": "CHOICEIN",
-        "ltp": 710.0,
-        "change": -15.9,
-        "pChange": -2.19,
-        "prevClose": 725.9
-      },
-      {
         "symbol": "CANFINHOME",
         "ltp": 915.65,
         "change": 29.55,
@@ -5071,13 +5071,6 @@
         "prevClose": 34.88
       },
       {
-        "symbol": "SUNDARMFIN",
-        "ltp": 4909.9,
-        "change": -65.0,
-        "pChange": -1.31,
-        "prevClose": 4974.9
-      },
-      {
         "symbol": "JSWINFRA",
         "ltp": 277.2,
         "change": 0.68,
@@ -5085,11 +5078,11 @@
         "prevClose": 276.52
       },
       {
-        "symbol": "SONATSOFTW",
-        "ltp": 268.5,
-        "change": -4.44,
-        "pChange": -1.63,
-        "prevClose": 272.94
+        "symbol": "SUNDARMFIN",
+        "ltp": 4909.9,
+        "change": -65.0,
+        "pChange": -1.31,
+        "prevClose": 4974.9
       },
       {
         "symbol": "PWL",
@@ -5097,6 +5090,13 @@
         "change": -0.39,
         "pChange": -0.36,
         "prevClose": 109.29
+      },
+      {
+        "symbol": "SONATSOFTW",
+        "ltp": 268.5,
+        "change": -4.44,
+        "pChange": -1.63,
+        "prevClose": 272.94
       },
       {
         "symbol": "BHARTIHEXA",
@@ -5120,18 +5120,18 @@
         "prevClose": 494.65
       },
       {
-        "symbol": "INDIAMART",
-        "ltp": 2167.5,
-        "change": 0.5,
-        "pChange": 0.02,
-        "prevClose": 2167.0
-      },
-      {
         "symbol": "CGCL",
         "ltp": 187.25,
         "change": 3.89,
         "pChange": 2.12,
         "prevClose": 183.36
+      },
+      {
+        "symbol": "INDIAMART",
+        "ltp": 2167.5,
+        "change": 0.5,
+        "pChange": 0.02,
+        "prevClose": 2167.0
       },
       {
         "symbol": "GICRE",
@@ -5442,18 +5442,18 @@
         "prevClose": 415.3
       },
       {
-        "symbol": "SUNTV",
-        "ltp": 648.85,
-        "change": 3.8,
-        "pChange": 0.59,
-        "prevClose": 645.05
-      },
-      {
         "symbol": "USHAMART",
         "ltp": 445.8,
         "change": 2.25,
         "pChange": 0.51,
         "prevClose": 443.55
+      },
+      {
+        "symbol": "SUNTV",
+        "ltp": 648.85,
+        "change": 3.8,
+        "pChange": 0.59,
+        "prevClose": 645.05
       },
       {
         "symbol": "JSWDULUX",
@@ -6159,9 +6159,9 @@
       },
       {
         "symbol": "UPL",
-        "ltp": 652.0,
-        "change": -2.3,
-        "pChange": -0.35,
+        "ltp": 654.3,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 654.3
       },
       {
@@ -6438,18 +6438,18 @@
         "prevClose": 1476.5
       },
       {
-        "symbol": "LINDEINDIA",
-        "ltp": 7264.5,
-        "change": 195.5,
-        "pChange": 2.77,
-        "prevClose": 7069.0
-      },
-      {
         "symbol": "ITCHOTELS",
         "ltp": 163.7,
         "change": -1.35,
         "pChange": -0.82,
         "prevClose": 165.05
+      },
+      {
+        "symbol": "LINDEINDIA",
+        "ltp": 7264.5,
+        "change": 195.5,
+        "pChange": 2.77,
+        "prevClose": 7069.0
       },
       {
         "symbol": "JSL",
@@ -6571,18 +6571,18 @@
         "prevClose": 4363.9
       },
       {
-        "symbol": "SUNDARMFIN",
-        "ltp": 4909.9,
-        "change": -65.0,
-        "pChange": -1.31,
-        "prevClose": 4974.9
-      },
-      {
         "symbol": "JSWINFRA",
         "ltp": 277.2,
         "change": 0.68,
         "pChange": 0.25,
         "prevClose": 276.52
+      },
+      {
+        "symbol": "SUNDARMFIN",
+        "ltp": 4909.9,
+        "change": -65.0,
+        "pChange": -1.31,
+        "prevClose": 4974.9
       },
       {
         "symbol": "BHARTIHEXA",
@@ -7833,6 +7833,13 @@
         "prevClose": 1037.85
       },
       {
+        "symbol": "CHOICEIN",
+        "ltp": 710.0,
+        "change": -15.9,
+        "pChange": -2.19,
+        "prevClose": 725.9
+      },
+      {
         "symbol": "CREDITACC",
         "ltp": 1259.0,
         "change": -4.4,
@@ -7910,13 +7917,6 @@
         "prevClose": 292.73
       },
       {
-        "symbol": "CHOICEIN",
-        "ltp": 710.0,
-        "change": -15.9,
-        "pChange": -2.19,
-        "prevClose": 725.9
-      },
-      {
         "symbol": "CANFINHOME",
         "ltp": 915.65,
         "change": 29.55,
@@ -7966,18 +7966,18 @@
         "prevClose": 34.88
       },
       {
-        "symbol": "SONATSOFTW",
-        "ltp": 268.5,
-        "change": -4.44,
-        "pChange": -1.63,
-        "prevClose": 272.94
-      },
-      {
         "symbol": "PWL",
         "ltp": 108.9,
         "change": -0.39,
         "pChange": -0.36,
         "prevClose": 109.29
+      },
+      {
+        "symbol": "SONATSOFTW",
+        "ltp": 268.5,
+        "change": -4.44,
+        "pChange": -1.63,
+        "prevClose": 272.94
       },
       {
         "symbol": "ABFRL",
@@ -7994,18 +7994,18 @@
         "prevClose": 494.65
       },
       {
-        "symbol": "INDIAMART",
-        "ltp": 2167.5,
-        "change": 0.5,
-        "pChange": 0.02,
-        "prevClose": 2167.0
-      },
-      {
         "symbol": "CGCL",
         "ltp": 187.25,
         "change": 3.89,
         "pChange": 2.12,
         "prevClose": 183.36
+      },
+      {
+        "symbol": "INDIAMART",
+        "ltp": 2167.5,
+        "change": 0.5,
+        "pChange": 0.02,
+        "prevClose": 2167.0
       },
       {
         "symbol": "UCOBANK",
@@ -8267,18 +8267,18 @@
         "prevClose": 415.3
       },
       {
-        "symbol": "SUNTV",
-        "ltp": 648.85,
-        "change": 3.8,
-        "pChange": 0.59,
-        "prevClose": 645.05
-      },
-      {
         "symbol": "USHAMART",
         "ltp": 445.8,
         "change": 2.25,
         "pChange": 0.51,
         "prevClose": 443.55
+      },
+      {
+        "symbol": "SUNTV",
+        "ltp": 648.85,
+        "change": 3.8,
+        "pChange": 0.59,
+        "prevClose": 645.05
       },
       {
         "symbol": "JSWDULUX",
@@ -9355,9 +9355,9 @@
       },
       {
         "symbol": "UPL",
-        "ltp": 652.0,
-        "change": -2.3,
-        "pChange": -0.35,
+        "ltp": 654.3,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 654.3
       },
       {
@@ -9627,18 +9627,18 @@
         "prevClose": 42.23
       },
       {
-        "symbol": "LICHSGFIN",
-        "ltp": 558.9,
-        "change": -6.25,
-        "pChange": -1.11,
-        "prevClose": 565.15
-      },
-      {
         "symbol": "FACT",
         "ltp": 932.0,
         "change": 20.5,
         "pChange": 2.25,
         "prevClose": 911.5
+      },
+      {
+        "symbol": "LICHSGFIN",
+        "ltp": 558.9,
+        "change": -6.25,
+        "pChange": -1.11,
+        "prevClose": 565.15
       },
       {
         "symbol": "COROMANDEL",
@@ -10068,18 +10068,18 @@
         "prevClose": 1266.35
       },
       {
-        "symbol": "LINDEINDIA",
-        "ltp": 7264.5,
-        "change": 195.5,
-        "pChange": 2.77,
-        "prevClose": 7069.0
-      },
-      {
         "symbol": "ITCHOTELS",
         "ltp": 163.7,
         "change": -1.35,
         "pChange": -0.82,
         "prevClose": 165.05
+      },
+      {
+        "symbol": "LINDEINDIA",
+        "ltp": 7264.5,
+        "change": 195.5,
+        "pChange": 2.77,
+        "prevClose": 7069.0
       },
       {
         "symbol": "JSL",
@@ -10502,6 +10502,13 @@
         "prevClose": 470.7
       },
       {
+        "symbol": "CHOICEIN",
+        "ltp": 710.0,
+        "change": -15.9,
+        "pChange": -2.19,
+        "prevClose": 725.9
+      },
+      {
         "symbol": "CREDITACC",
         "ltp": 1259.0,
         "change": -4.4,
@@ -10600,13 +10607,6 @@
         "prevClose": 292.73
       },
       {
-        "symbol": "CHOICEIN",
-        "ltp": 710.0,
-        "change": -15.9,
-        "pChange": -2.19,
-        "prevClose": 725.9
-      },
-      {
         "symbol": "CANFINHOME",
         "ltp": 915.65,
         "change": 29.55,
@@ -10677,13 +10677,6 @@
         "prevClose": 34.88
       },
       {
-        "symbol": "SUNDARMFIN",
-        "ltp": 4909.9,
-        "change": -65.0,
-        "pChange": -1.31,
-        "prevClose": 4974.9
-      },
-      {
         "symbol": "JSWINFRA",
         "ltp": 277.2,
         "change": 0.68,
@@ -10691,11 +10684,11 @@
         "prevClose": 276.52
       },
       {
-        "symbol": "SONATSOFTW",
-        "ltp": 268.5,
-        "change": -4.44,
-        "pChange": -1.63,
-        "prevClose": 272.94
+        "symbol": "SUNDARMFIN",
+        "ltp": 4909.9,
+        "change": -65.0,
+        "pChange": -1.31,
+        "prevClose": 4974.9
       },
       {
         "symbol": "PWL",
@@ -10703,6 +10696,13 @@
         "change": -0.39,
         "pChange": -0.36,
         "prevClose": 109.29
+      },
+      {
+        "symbol": "SONATSOFTW",
+        "ltp": 268.5,
+        "change": -4.44,
+        "pChange": -1.63,
+        "prevClose": 272.94
       },
       {
         "symbol": "BHARTIHEXA",
@@ -10726,18 +10726,18 @@
         "prevClose": 494.65
       },
       {
-        "symbol": "INDIAMART",
-        "ltp": 2167.5,
-        "change": 0.5,
-        "pChange": 0.02,
-        "prevClose": 2167.0
-      },
-      {
         "symbol": "CGCL",
         "ltp": 187.25,
         "change": 3.89,
         "pChange": 2.12,
         "prevClose": 183.36
+      },
+      {
+        "symbol": "INDIAMART",
+        "ltp": 2167.5,
+        "change": 0.5,
+        "pChange": 0.02,
+        "prevClose": 2167.0
       },
       {
         "symbol": "GICRE",
@@ -11048,18 +11048,18 @@
         "prevClose": 415.3
       },
       {
-        "symbol": "SUNTV",
-        "ltp": 648.85,
-        "change": 3.8,
-        "pChange": 0.59,
-        "prevClose": 645.05
-      },
-      {
         "symbol": "USHAMART",
         "ltp": 445.8,
         "change": 2.25,
         "pChange": 0.51,
         "prevClose": 443.55
+      },
+      {
+        "symbol": "SUNTV",
+        "ltp": 648.85,
+        "change": 3.8,
+        "pChange": 0.59,
+        "prevClose": 645.05
       },
       {
         "symbol": "JSWDULUX",
@@ -11666,18 +11666,18 @@
         "prevClose": 120.91
       },
       {
-        "symbol": "AETHER",
-        "ltp": 1185.0,
-        "change": 1.5,
-        "pChange": 0.13,
-        "prevClose": 1183.5
-      },
-      {
         "symbol": "RENUKA",
         "ltp": 28.56,
         "change": 0.8,
         "pChange": 2.88,
         "prevClose": 27.76
+      },
+      {
+        "symbol": "AETHER",
+        "ltp": 1185.0,
+        "change": 1.5,
+        "pChange": 0.13,
+        "prevClose": 1183.5
       },
       {
         "symbol": "PRIVISCL",
@@ -11706,6 +11706,13 @@
         "change": 13.2,
         "pChange": 0.37,
         "prevClose": 3586.8
+      },
+      {
+        "symbol": "NAZARA",
+        "ltp": 272.2,
+        "change": -3.55,
+        "pChange": -1.29,
+        "prevClose": 275.75
       },
       {
         "symbol": "KSB",
@@ -11741,13 +11748,6 @@
         "change": 6.49,
         "pChange": 2.3,
         "prevClose": 282.11
-      },
-      {
-        "symbol": "NAZARA",
-        "ltp": 272.2,
-        "change": -3.55,
-        "pChange": -1.29,
-        "prevClose": 275.75
       },
       {
         "symbol": "GOKEX",
@@ -12716,18 +12716,18 @@
         "prevClose": 221.09
       },
       {
-        "symbol": "BIRLACORPN",
-        "ltp": 950.5,
-        "change": -6.4,
-        "pChange": -0.67,
-        "prevClose": 956.9
-      },
-      {
         "symbol": "DBL",
         "ltp": 457.0,
         "change": 6.3,
         "pChange": 1.4,
         "prevClose": 450.7
+      },
+      {
+        "symbol": "BIRLACORPN",
+        "ltp": 950.5,
+        "change": -6.4,
+        "pChange": -0.67,
+        "prevClose": 956.9
       },
       {
         "symbol": "AARTIDRUGS",
@@ -13418,18 +13418,18 @@
         "prevClose": 1279.6
       },
       {
-        "symbol": "SAIL",
-        "ltp": 176.1,
-        "change": 1.04,
-        "pChange": 0.59,
-        "prevClose": 175.06
-      },
-      {
         "symbol": "SUNPHARMA",
         "ltp": 1668.9,
         "change": 3.7,
         "pChange": 0.22,
         "prevClose": 1665.2
+      },
+      {
+        "symbol": "SAIL",
+        "ltp": 176.1,
+        "change": 1.04,
+        "pChange": 0.59,
+        "prevClose": 175.06
       },
       {
         "symbol": "EICHERMOT",
@@ -14126,9 +14126,9 @@
       },
       {
         "symbol": "UPL",
-        "ltp": 652.0,
-        "change": -2.3,
-        "pChange": -0.35,
+        "ltp": 654.3,
+        "change": 0.0,
+        "pChange": 0.0,
         "prevClose": 654.3
       },
       {
