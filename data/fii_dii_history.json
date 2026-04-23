@@ -1,5 +1,20 @@
 [
   {
+    "date": "23-Apr-2026",
+    "fii_buy": 12829.12,
+    "fii_sell": 16083.83,
+    "fii_net": -3254.71,
+    "dii_buy": 18498.19,
+    "dii_sell": 17556.84,
+    "dii_net": 941.35,
+    "fetched_at": "2026-04-23T14:18:32.720775+00:00",
+    "nifty_price": 24173.05,
+    "nifty_change": -205.05,
+    "nifty_change_pct": -0.84,
+    "vix_price": 18.59,
+    "vix_change_pct": 1.58
+  },
+  {
     "date": "22-Apr-2026",
     "fii_buy": 13895.07,
     "fii_sell": 15973.43,
