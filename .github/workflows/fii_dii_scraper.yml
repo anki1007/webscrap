@@ -1,9 +1,19 @@
 name: FII DII Daily Scraper
 
+# Two scheduled runs daily because:
+#  - 18:30 IST: NSE typically publishes the cash FII/DII data 18:00–18:30 IST
+#  - 21:00 IST: F&O participant-OI CSV (fao_participant_oi_*.csv) often
+#               appears later, after 19:30 IST
+# The scraper is idempotent: every run also backfills any missing day in the
+# trailing 90-day window, so a single missed run cannot cause permanent gaps.
+
 on:
   schedule:
-    - cron: "30 12 * * 1-5"   # 18:00 IST Mon–Fri
-  workflow_dispatch:
+    - cron: "15 10 * * 1-5"   # 15:45 IST  – right after market close
+    - cron: "30 12 * * 1-5"   # 18:00 IST  – primary publish window
+    - cron: "00 13 * * 1-5"   # 18:30 IST  – secondary publish window
+    - cron: "30 15 * * 1-5"   # 21:00 IST  – FAO CSV publish + cash retry
+  workflow_dispatch:           # manual catch-up
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -13,6 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    timeout-minutes: 25
 
     steps:
       - uses: actions/checkout@v4
@@ -20,20 +31,31 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Install dependencies
         run: pip install requests curl_cffi beautifulsoup4
 
-      - name: Run scrapers
-        run: |
-          python fii_dii_scrape.py
-          python fortnightly_scrape.py
+      - name: Run FII/DII scraper (with backfill)
+        run: python fii_dii_scrape.py
+
+      - name: Run fortnightly NSDL scraper
+        run: python fortnightly_scrape.py
+        continue-on-error: true   # don't fail the whole run if NSDL is down
 
       - name: Commit & push data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/*.json
-          git diff --cached --quiet && echo "No changes" || \
-            git commit -m "chore: FII/DII & FPI flows updated $(date -u +'%Y-%m-%d %H:%M UTC')" && \
-            git push
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: FII/DII data $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # retry push up to 3x in case another workflow pushed simultaneously
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push attempt $i failed; retrying..."
+              sleep 5
+            done
+          fi
