@@ -1,0 +1,64 @@
+name: ATSBOT NSDL/FPI/Sector Scrapers
+
+# Daily Node.js scrapers for the data files the FII/DII Python scraper does NOT
+# produce: NSDL fortnightly sectors, FPI daily/monthly trends, etc.
+# Runs once daily at 19:30 IST (after NSDL typically publishes new data).
+# workflow_dispatch lets you trigger an immediate backfill from the Actions UI.
+
+on:
+  schedule:
+    - cron: "0 14 * * 1-5"   # 19:30 IST Mon–Fri
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: nodejs-scrapers/package.json
+
+      - name: Install dependencies
+        working-directory: nodejs-scrapers
+        run: npm install --no-audit --no-fund
+
+      - name: Fetch NSDL sector + FPI data
+        working-directory: .
+        run: node nodejs-scrapers/scripts/fetch_nsdl.js
+        continue-on-error: true
+
+      - name: Fetch FPI monthly history (backfill)
+        working-directory: .
+        run: node nodejs-scrapers/scripts/fetch_nsdl_daily_backfill.js
+        continue-on-error: true
+
+      - name: Commit & push data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sectors.json data/sector_latest.json data/sector_history.json \
+                  data/fpi_daily.json data/fpi_monthly_history.json \
+                  data/fpi_quarterly.json data/fpi_yearly_monthly.json \
+                  data/country_auc.json data/debt_utilisation.json \
+                  data/odi_pn.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: NSDL/FPI/Sector data $(date -u +'%Y-%m-%d %H:%M UTC')"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push attempt $i failed; retrying..."
+              sleep 5
+            done
+          fi
