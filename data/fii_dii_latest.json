@@ -25,5 +25,11 @@
   "fii_idx_put_short": 522378,
   "fii_idx_put_net": 363112,
   "pcr": 0.58,
-  "sentiment_score": 28
+  "sentiment_score": 28,
+  "nifty_price": 24092.7,
+  "nifty_change": 194.75,
+  "nifty_change_pct": 0.81,
+  "vix_price": 18.38,
+  "vix_change_pct": -6.77,
+  "fetched_at": "2026-04-27T11:58:55.426548+00:00"
 }
